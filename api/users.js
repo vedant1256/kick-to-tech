@@ -7,7 +7,7 @@ import { google } from 'googleapis';
 const json = (res, status, body) => res.status(status).json(body);
 const canonical = ({ id, name, mobile, email }) => `<kick to tech>|id=${id}|name=${name}|mobile=${mobile || ''}${email ? `|email=${email}` : ''}`;
 
-const GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbxclRCo9XRRPREBjrPu4OZuO7pK94U63fQn0tClg9xy61qagYGWy4BXVBYzhIE9w6LJgg/exec';
+const GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || '';
 const RESEND_API_KEY = process.env.RESEND_API_KEY || '';
 
 function getSeatingArrangement(index) {

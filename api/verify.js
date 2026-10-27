@@ -50,7 +50,7 @@ async function sendMail(user, scannedAt) {
   const text = `Hi ${user.name},\n\nYour Kick to Tech Refreshment QR pass was scanned and verified successfully.\n\nName: ${user.name}\nID: ${user.id}\n${user.seat ? `Seating: ${user.seat}\n` : ''}Mobile: ${user.mobile || 'Not available'}\nVerified at: ${scannedAt}\n\nYour refreshment pass has been redeemed (valid for one scan only).\n\n— Kick to Tech`;
   const html = `<div style="font-family:Arial,sans-serif;background:#f4f6f1;padding:32px;color:#151817"><div style="max-width:560px;margin:auto;background:#fff;padding:32px;border-top:8px solid #c8ff3d"><p style="font-size:12px;letter-spacing:2px;color:#6c756d;font-weight:bold">KICK TO TECH HACKATHON</p><h1 style="font-size:28px;margin:16px 0">Refreshment pass redeemed</h1><p>Hi ${user.name}, your Refreshment QR pass was verified and redeemed successfully.</p><div style="border:1px solid #d9ddd7;padding:18px;margin:24px 0"><p><b>Name:</b> ${user.name}</p><p><b>ID:</b> ${user.id}</p>${user.seat ? `<p><b>Seating:</b> <span style="font-family:monospace;color:#1e40af;font-weight:bold">${user.seat}</span></p>` : ''}<p><b>Mobile:</b> ${user.mobile || 'Not available'}</p><p><b>Redeemed at:</b> ${scannedAt}</p></div><p style="color:#6c756d">This QR was valid for one refreshment scan only and has now been redeemed.</p><p style="color:#7da900;font-weight:bold">— Kick to Tech</p></div></div>`;
 
-  const scriptUrl = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbxclRCo9XRRPREBjrPu4OZuO7pK94U63fQn0tClg9xy61qagYGWy4BXVBYzhIE9w6LJgg/exec';
+  const scriptUrl = process.env.GOOGLE_SCRIPT_URL || '';
   if (scriptUrl) {
     try {
       const gsRes = await fetch(scriptUrl, {
@@ -151,7 +151,7 @@ export default async function handler(req, res) {
     }
 
     // 5. Sync scan to Google Apps Script if configured
-    const scriptUrl = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbxclRCo9XRRPREBjrPu4OZuO7pK94U63fQn0tClg9xy61qagYGWy4BXVBYzhIE9w6LJgg/exec';
+    const scriptUrl = process.env.GOOGLE_SCRIPT_URL || '';
     if (scriptUrl) {
       fetch(scriptUrl, {
         method: 'POST',
