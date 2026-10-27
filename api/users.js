@@ -7,7 +7,7 @@ import { google } from 'googleapis';
 const json = (res, status, body) => res.status(status).json(body);
 const canonical = ({ id, name, mobile, email }) => `<kick to tech>|id=${id}|name=${name}|mobile=${mobile || ''}${email ? `|email=${email}` : ''}`;
 
-const GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || '';
+const GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbwgIreBfEQPgd6ogCcHik_aM2ovb1v57682ct88cRizMsdjCjTztfOsA1Y6f-9G4Y8e/exec';
 const RESEND_API_KEY = process.env.RESEND_API_KEY || '';
 
 function getSeatingArrangement(index) {
@@ -234,6 +234,37 @@ export default async function handler(req, res) {
     const config = getConfig();
     if (!config) {
       if (req.method === 'GET') {
+        const scriptUrl = process.env.GOOGLE_SCRIPT_URL || GOOGLE_SCRIPT_URL;
+        if (scriptUrl) {
+          try {
+            const gsRes = await fetch(scriptUrl, { method: 'GET', redirect: 'follow' });
+            const gsData = await gsRes.json().catch(() => ({}));
+            if (Array.isArray(gsData?.users) && gsData.users.length) {
+              const mappedUsers = gsData.users.map((u, idx) => {
+                const rawName = String(u.name || '');
+                const rawMobile = String(u.mobile || '');
+                const rawSeat = String(u.seat || '');
+                const realName = /[a-zA-Z]/.test(rawMobile) ? rawMobile : rawName;
+                const realMobile = /^[+0-9]/.test(rawSeat) ? rawSeat : rawMobile;
+                const seating = getSeatingArrangement(idx);
+                return {
+                  id: String(u.id || `KTT${String(idx + 1).padStart(2, '0')}`),
+                  name: realName,
+                  mobile: realMobile,
+                  email: String(u.email || '').trim(),
+                  seat: seating.text,
+                  lab: seating.lab,
+                  pc: seating.pc,
+                  appId: rawName
+                };
+              });
+              saveLocalPeople(mappedUsers);
+              return json(res, 200, { users: mappedUsers, columns: ['id', 'name', 'mobile', 'email', 'seat'] });
+            }
+          } catch (gsErr) {
+            console.warn('Apps Script GET error, falling back to local:', gsErr.message);
+          }
+        }
         const users = getLocalPeople();
         return json(res, 200, { users, columns: ['id', 'name', 'mobile', 'email', 'seat'] });
       }
