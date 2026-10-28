@@ -3,12 +3,23 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import QRCode from 'qrcode';
 import { google } from 'googleapis';
+import nodemailer from 'nodemailer';
 
 const json = (res, status, body) => res.status(status).json(body);
 const canonical = ({ id, name, mobile, email }) => `<kick to tech>|id=${id}|name=${name}|mobile=${mobile || ''}${email ? `|email=${email}` : ''}`;
 
 const GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbzUj2WBFyRkAE_7ivpFKPlM7SSjOW8PcC2_yP_tfPmYBRpIoMJWpKtxQMuKTSCax59H/exec';
 const RESEND_API_KEY = process.env.RESEND_API_KEY || '';
+const SMTP_USER = process.env.SMTP_USER || 'kicktotech@gmail.com';
+const SMTP_PASS = process.env.SMTP_PASS || '';
+
+let smtpTransporter = null;
+if (SMTP_PASS) {
+  smtpTransporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: { user: SMTP_USER, pass: SMTP_PASS }
+  });
+}
 
 function getSeatingArrangement(index) {
   const LABS = [
@@ -134,7 +145,24 @@ async function sendUserWelcomeEmail(user) {
 </div>
 `;
 
-    // 1. Primary: Send via Google Apps Script (no domain restrictions, delivers to any email)
+    // 1. Direct Gmail SMTP (if App Password configured)
+    if (smtpTransporter) {
+      try {
+        await smtpTransporter.sendMail({
+          from: `"Kick to Tech" <${SMTP_USER}>`,
+          to: recipient,
+          subject,
+          text: textContent,
+          html: htmlContent
+        });
+        saveEmailedRecord({ id: user.id, name: user.name, email: recipient, seat: seatText, sentAt: new Date().toISOString() });
+        return { sent: true, provider: 'smtp-gmail', seat: seatText };
+      } catch (smtpErr) {
+        console.warn('Gmail SMTP error, falling back to Apps Script:', smtpErr.message);
+      }
+    }
+
+    // 2. Fallback: Google Apps Script Web App
     const scriptUrl = process.env.GOOGLE_SCRIPT_URL || GOOGLE_SCRIPT_URL;
     if (scriptUrl) {
       try {

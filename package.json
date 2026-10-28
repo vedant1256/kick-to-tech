@@ -16,6 +16,7 @@
     "jsqr": "latest",
     "jszip": "latest",
     "lucide-react": "latest",
+    "nodemailer": "^10.2.1",
     "qrcode": "latest",
     "react": "latest",
     "react-dom": "latest",

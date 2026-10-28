@@ -2,9 +2,20 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import QRCode from 'qrcode';
+import nodemailer from 'nodemailer';
 
 const SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbzUj2WBFyRkAE_7ivpFKPlM7SSjOW8PcC2_yP_tfPmYBRpIoMJWpKtxQMuKTSCax59H/exec';
 const SECRET = process.env.QR_SIGNING_SECRET || 'kick-to-tech-secret-key-2026-verify';
+const SMTP_USER = process.env.SMTP_USER || 'kicktotech@gmail.com';
+const SMTP_PASS = process.env.SMTP_PASS || '';
+
+let smtpTransporter = null;
+if (SMTP_PASS) {
+  smtpTransporter = nodemailer.createTransport({
+    service: 'gmail',
+    auth: { user: SMTP_USER, pass: SMTP_PASS }
+  });
+}
 
 const canonical = ({ id, name, mobile, email }) => `<kick to tech>|id=${id}|name=${name}|mobile=${mobile || ''}${email ? `|email=${email}` : ''}`;
 
@@ -89,6 +100,22 @@ async function sendEmailForUser(user, targetEmail = null) {
   </div>
 </div>
 `;
+
+  if (smtpTransporter) {
+    try {
+      await smtpTransporter.sendMail({
+        from: `"Kick to Tech" <${SMTP_USER}>`,
+        to: recipient,
+        subject,
+        text: textContent,
+        html: htmlContent
+      });
+      return true;
+    } catch (smtpErr) {
+      console.warn(`SMTP error for ${recipient}:`, smtpErr.message);
+      return false;
+    }
+  }
 
   const res = await fetch(SCRIPT_URL, {
     method: 'POST',
@@ -182,7 +209,23 @@ async function main() {
 
 export async function syncAndMailNew() {
   try {
-    const res = await fetch(SCRIPT_URL, { method: 'GET', redirect: 'follow' });
+    if (smtpTransporter) {
+    try {
+      await smtpTransporter.sendMail({
+        from: `"Kick to Tech" <${SMTP_USER}>`,
+        to: recipient,
+        subject,
+        text: textContent,
+        html: htmlContent
+      });
+      return true;
+    } catch (smtpErr) {
+      console.warn(`SMTP error for ${recipient}:`, smtpErr.message);
+      return false;
+    }
+  }
+
+  const res = await fetch(SCRIPT_URL, { method: 'GET', redirect: 'follow' });
     const data = await res.json().catch(() => ({}));
     if (!Array.isArray(data?.users) || !data.users.length) return;
 
