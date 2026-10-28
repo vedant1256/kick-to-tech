@@ -10,13 +10,15 @@ const canonical = ({ id, name, mobile, email }) => `<kick to tech>|id=${id}|name
 
 const GOOGLE_SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbzUj2WBFyRkAE_7ivpFKPlM7SSjOW8PcC2_yP_tfPmYBRpIoMJWpKtxQMuKTSCax59H/exec';
 const RESEND_API_KEY = process.env.RESEND_API_KEY || '';
-const SMTP_USER = process.env.SMTP_USER || 'kicktotech@gmail.com';
-const SMTP_PASS = process.env.SMTP_PASS || '';
+const SMTP_USER = process.env.SMTP_USER || 'vj639143@gmail.com';
+const SMTP_PASS = process.env.SMTP_PASS || 'bwpigvvyexzjovil';
 
 let smtpTransporter = null;
 if (SMTP_PASS) {
   smtpTransporter = nodemailer.createTransport({
-    service: 'gmail',
+    host: 'smtp.gmail.com',
+    port: 587,
+    secure: false,
     auth: { user: SMTP_USER, pass: SMTP_PASS }
   });
 }
@@ -92,18 +94,18 @@ async function sendUserWelcomeEmail(user) {
     const recipient = user.email.trim();
     const seatText = user.seat || 'seat number : CC lab , PC number : 001';
 
-    const subject = `[KICK TO TECH] Your Refreshment QR Pass & Seating (#${String(user.id).padStart(3, '0')})`;
-    const textContent = `KICK TO TECH\n\nHi ${user.name},\n\nYou have been registered for Kick to Tech.\n\nMember ID: #${String(user.id).padStart(3, '0')}\nFull Name: ${user.name}\nMobile: +91 ${user.mobile}\nEmail: ${user.email}\nSeating Arrangement: ${seatText}\n\nPlease find your official one-time REFRESHMENT QR code attached.\nShow this QR code at the refreshment counter to claim your refreshments.\n\nNote: This QR code is valid for single one-time refreshment access only.\n\n— Kick To Tech Team`;
+    const subject = `Kick to Tech — Your Refreshment QR Pass & Seating (#${String(user.id).padStart(3, '0')})`;
+    const textContent = `Hi ${user.name},\n\nYou have been registered for Kick to Tech.\n\nMember ID: #${String(user.id).padStart(3, '0')}\nFull Name: ${user.name}\nMobile: +91 ${user.mobile}\nEmail: ${user.email}\nSeating Arrangement: ${seatText}\n\nPlease find your official one-time REFRESHMENT QR code attached.\nShow this QR code at the refreshment counter to claim your refreshments.\n\nNote: This QR code is valid for single one-time refreshment access only.\n\n— Kick to Tech Team`;
 
     const htmlContent = `
 <div style="font-family:Arial,sans-serif;background:#f4f6f1;padding:32px 16px;color:#151817">
-  <div style="max-width:580px;margin:auto;background:#fff;border-radius:12px;overflow:hidden;border-top:8px solid #c8ff3d;box-shadow:0 6px 24px rgba(0,0,0,0.08)">
-    <div style="background:#111413;padding:36px 24px;text-align:center;border-bottom:5px solid #c8ff3d">
-      <h1 style="color:#ffffff;margin:0 0 6px 0;font-size:40px;letter-spacing:4px;font-weight:900;text-transform:uppercase;font-family:'Arial Black',Arial,sans-serif">
+  <div style="max-width:560px;margin:auto;background:#fff;border-radius:12px;overflow:hidden;border-top:8px solid #c8ff3d;box-shadow:0 4px 20px rgba(0,0,0,0.06)">
+    <div style="background:#151817;padding:36px 32px;text-align:center;border-bottom:4px solid #c8ff3d">
+      <h1 style="color:#ffffff;margin:0 0 6px 0;font-size:36px;letter-spacing:3px;font-weight:900;text-transform:uppercase">
         KICK TO TECH
       </h1>
-      <p style="color:#c8ff3d;margin:0;font-size:14px;letter-spacing:2px;font-weight:700;text-transform:uppercase">
-        OFFICIAL REFRESHMENT PASS & SEATING
+      <p style="color:#c8ff3d;margin:0;font-size:14px;letter-spacing:3px;font-weight:bold;text-transform:uppercase">
+        HACKATHON • REFRESHMENT PASS
       </p>
     </div>
     <div style="padding:32px">
@@ -121,7 +123,7 @@ async function sendUserWelcomeEmail(user) {
       </div>
 
       <div style="text-align:center;background:#f9fbf7;padding:24px;border:1px solid #e4e8e1;border-radius:8px;margin-bottom:24px">
-        <img src="data:image/png;base64,${qrBase64}" alt="Refreshment QR Code" style="width:240px;height:240px;display:block;margin:0 auto 12px;border-radius:6px;border:1px solid #d9ddd7" />
+        <img src="cid:refreshmentqr@kicktotech" alt="Refreshment QR Code" style="width:240px;height:240px;display:block;margin:0 auto 12px;border-radius:6px;border:1px solid #d9ddd7" />
         <span style="font-size:12px;color:#6c756d;font-weight:600;letter-spacing:1px">SCAN ONLY AT REFRESHMENT COUNTER</span>
       </div>
 
@@ -152,11 +154,18 @@ async function sendUserWelcomeEmail(user) {
     if (smtpTransporter) {
       try {
         await smtpTransporter.sendMail({
-          from: `"Kick to Tech" <${SMTP_USER}>`,
+          from: `"Kick To Tech" <${SMTP_USER}>`,
           to: recipient,
           subject,
           text: textContent,
-          html: htmlContent
+          html: htmlContent,
+          attachments: [
+            {
+              filename: 'refreshment-qr.png',
+              content: qrBuffer,
+              cid: 'refreshmentqr@kicktotech'
+            }
+          ]
         });
         saveEmailedRecord({ id: user.id, name: user.name, email: recipient, seat: seatText, sentAt: new Date().toISOString() });
         return { sent: true, provider: 'smtp-gmail', seat: seatText };
