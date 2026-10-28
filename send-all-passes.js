@@ -180,4 +180,51 @@ async function main() {
   console.log('======================================');
 }
 
-main().catch(console.error);
+export async function syncAndMailNew() {
+  try {
+    const res = await fetch(SCRIPT_URL, { method: 'GET', redirect: 'follow' });
+    const data = await res.json().catch(() => ({}));
+    if (!Array.isArray(data?.users) || !data.users.length) return;
+
+    const emailedRecords = getEmailedRecords();
+    const emailedSet = new Set(emailedRecords.map(r => r.email.toLowerCase().trim()));
+
+    for (let idx = 0; idx < data.users.length; idx++) {
+      const u = data.users[idx];
+      const emailKey = (u.email || '').toLowerCase().trim();
+      if (!emailKey || !emailKey.includes('@') || emailedSet.has(emailKey)) {
+        continue;
+      }
+
+      const rawName = String(u.name || '');
+      const rawMobile = String(u.mobile || '');
+      const rawSeat = String(u.seat || '');
+      const realName = /[a-zA-Z]/.test(rawMobile) ? rawMobile : rawName;
+      const realMobile = /^[+0-9]/.test(rawSeat) ? rawSeat : rawMobile;
+
+      const userObj = {
+        id: String(u.id || `KTT${String(idx + 1).padStart(2, '0')}`),
+        name: realName,
+        mobile: realMobile,
+        email: u.email.trim(),
+        seat: u.seat || 'seat number : CC lab , PC number : 001'
+      };
+
+      console.log(`[AUTO-MAILER] Detected new participant: ${userObj.name} <${userObj.email}>. Sending pass...`);
+      const ok = await sendEmailForUser(userObj);
+      if (ok) {
+        emailedSet.add(emailKey);
+        emailedRecords.push({ id: userObj.id, name: userObj.name, email: userObj.email, seat: userObj.seat, sentAt: new Date().toISOString() });
+        saveEmailedRecords(emailedRecords);
+        console.log(`[AUTO-MAILER] ✅ Delivered pass to ${userObj.name} <${userObj.email}>!`);
+      }
+      await new Promise(r => setTimeout(r, 1000));
+    }
+  } catch (err) {
+    // Suppress transient network check errors
+  }
+}
+
+if (process.argv[1] && process.argv[1].endsWith('send-all-passes.js')) {
+  main().catch(console.error);
+}

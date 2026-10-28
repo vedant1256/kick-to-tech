@@ -1,6 +1,7 @@
 import express from 'express';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { syncAndMailNew } from './send-all-passes.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -56,4 +57,7 @@ app.use((req, res, next) => {
 
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`Kick to Tech server running on port ${PORT}`);
+  // Automatically check Google Sheet and email new participants every 30 seconds
+  syncAndMailNew();
+  setInterval(syncAndMailNew, 30000);
 });
