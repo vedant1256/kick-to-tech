@@ -1,2372 +1,2392 @@
 [
   {
-    "id": "KTT01",
-    "name": "Kanchan Patil",
-    "mobile": "9762512689",
-    "email": "kanchanpatil1006@gmail.com",
-    "seat": "seat number : CC lab , PC number : 001",
-    "lab": "CC lab",
-    "pc": "001",
-    "appId": "APP-2026-U647W5"
-  },
-  {
     "id": "KTT02",
     "name": "Kaustubh Pawar",
     "mobile": "9373529729",
     "email": "kaustubh1006p@gmail.com",
-    "seat": "seat number : CC lab , PC number : 002",
+    "seat": "seat number : CC lab , PC number : 001",
     "lab": "CC lab",
-    "pc": "002",
-    "appId": "APP-2026-GTN2MX"
+    "pc": "001",
+    "appId": "Kaustubh Pawar"
   },
   {
     "id": "KTT03",
     "name": "Nishant Patil",
     "mobile": "+919922785407",
     "email": "patil.nish@yahoo.com",
-    "seat": "seat number : CC lab , PC number : 003",
+    "seat": "seat number : CC lab , PC number : 002",
     "lab": "CC lab",
-    "pc": "003",
-    "appId": "APP-2026-R5HC2Y"
+    "pc": "002",
+    "appId": "Nishant Patil"
   },
   {
     "id": "KTT04",
     "name": "Parth Dahiphale",
     "mobile": "9011907215",
     "email": "parthdahiphale6363@gmail.com",
-    "seat": "seat number : CC lab , PC number : 004",
+    "seat": "seat number : CC lab , PC number : 003",
     "lab": "CC lab",
-    "pc": "004",
-    "appId": "APP-2026-WNFF5N"
+    "pc": "003",
+    "appId": "Parth Dahiphale"
   },
   {
     "id": "KTT05",
     "name": "Rahil Mokashi",
     "mobile": "8197652106",
     "email": "rahilmokashi07@gmail.com",
-    "seat": "seat number : CC lab , PC number : 005",
+    "seat": "seat number : CC lab , PC number : 004",
     "lab": "CC lab",
-    "pc": "005",
-    "appId": "APP-2026-FGSNGX"
+    "pc": "004",
+    "appId": "Rahil Mokashi"
   },
   {
     "id": "KTT06",
     "name": "Arnav Agarwal",
     "mobile": "+919307764831",
     "email": "arnav.1251130495@vit.edu",
-    "seat": "seat number : CC lab , PC number : 006",
+    "seat": "seat number : CC lab , PC number : 005",
     "lab": "CC lab",
-    "pc": "006",
-    "appId": "APP-2026-V9QPYV"
+    "pc": "005",
+    "appId": "Arnav Agarwal"
   },
   {
     "id": "KTT07",
     "name": "Tejas Bankar",
     "mobile": "+918468879330",
     "email": "tejas.bankar24@vit.edu",
-    "seat": "seat number : CC lab , PC number : 007",
+    "seat": "seat number : CC lab , PC number : 006",
     "lab": "CC lab",
-    "pc": "007",
-    "appId": "APP-2026-HZ8WTF"
+    "pc": "006",
+    "appId": "Tejas Bankar"
   },
   {
     "id": "KTT08",
     "name": "Kaustubh Pawar",
     "mobile": "9373529729",
     "email": "kaustubh1006p@gmail.com",
-    "seat": "seat number : CC lab , PC number : 008",
+    "seat": "seat number : CC lab , PC number : 007",
     "lab": "CC lab",
-    "pc": "008",
-    "appId": "APP-2026-ZW985S"
+    "pc": "007",
+    "appId": "Kaustubh Pawar"
   },
   {
     "id": "KTT09",
     "name": "Kp",
     "mobile": "9373529729",
     "email": "kp064901@gmail.com",
-    "seat": "seat number : CC lab , PC number : 009",
+    "seat": "seat number : CC lab , PC number : 008",
     "lab": "CC lab",
-    "pc": "009",
-    "appId": "APP-2026-CVHGZ2"
+    "pc": "008",
+    "appId": "Kp"
   },
   {
     "id": "KTT10",
     "name": "Kanchan Patil",
     "mobile": "9762512689",
     "email": "kanchanpatil1006@gmail.com",
-    "seat": "seat number : CC lab , PC number : 010",
+    "seat": "seat number : CC lab , PC number : 009",
     "lab": "CC lab",
-    "pc": "010",
-    "appId": "APP-2026-RSSBY2"
+    "pc": "009",
+    "appId": "Kanchan Patil"
   },
   {
     "id": "KTT11",
     "name": "Shahebaz khan pathan",
     "mobile": "9923567370",
     "email": "pathanshahebazkhan61@gmail.com",
-    "seat": "seat number : CC lab , PC number : 011",
+    "seat": "seat number : CC lab , PC number : 010",
     "lab": "CC lab",
-    "pc": "011",
-    "appId": "APP-2026-ENEWNQ"
+    "pc": "010",
+    "appId": "Shahebaz khan pathan"
   },
   {
     "id": "KTT12",
     "name": "Shreyash",
     "mobile": "9527241101",
     "email": "shreyashdeshmukh381@gmail.com",
-    "seat": "seat number : CC lab , PC number : 012",
+    "seat": "seat number : CC lab , PC number : 011",
     "lab": "CC lab",
-    "pc": "012",
-    "appId": "APP-2026-VQ5WWH"
+    "pc": "011",
+    "appId": "Shreyash"
   },
   {
     "id": "KTT13",
     "name": "Shahebaz khan pathan",
     "mobile": "9923567370",
     "email": "pathanshahebazkhan61@gmail.com",
-    "seat": "seat number : CC lab , PC number : 013",
+    "seat": "seat number : CC lab , PC number : 012",
     "lab": "CC lab",
-    "pc": "013",
-    "appId": "APP-2026-JATQBG"
+    "pc": "012",
+    "appId": "Shahebaz khan pathan"
   },
   {
     "id": "KTT14",
     "name": "Shahebaz khan pathan",
     "mobile": "9923567370",
     "email": "pathanshahebazkhan61@gmail.com",
-    "seat": "seat number : CC lab , PC number : 014",
+    "seat": "seat number : CC lab , PC number : 013",
     "lab": "CC lab",
-    "pc": "014",
-    "appId": "APP-2026-M7K7DP"
+    "pc": "013",
+    "appId": "Shahebaz khan pathan"
   },
   {
     "id": "KTT15",
     "name": "Shravani Deshmukh",
     "mobile": "96375 64161",
     "email": "s25_shravani_deshmukh@mgmcen.ac.in",
-    "seat": "seat number : CC lab , PC number : 015",
+    "seat": "seat number : CC lab , PC number : 014",
     "lab": "CC lab",
-    "pc": "015",
-    "appId": "APP-2026-WXKPFA"
+    "pc": "014",
+    "appId": "Shravani Deshmukh"
   },
   {
     "id": "KTT16",
     "name": "Gaurav Mali",
     "mobile": "9699080943",
     "email": "gauravanilmali@gmail.com",
-    "seat": "seat number : CC lab , PC number : 016",
+    "seat": "seat number : CC lab , PC number : 015",
     "lab": "CC lab",
-    "pc": "016",
-    "appId": "APP-2026-8HFM26"
+    "pc": "015",
+    "appId": "Gaurav Mali"
   },
   {
     "id": "KTT17",
     "name": "Shrideep shaurya",
     "mobile": "+91 7011261093",
     "email": "shrideep.shaurya@gmail.com",
-    "seat": "seat number : CC lab , PC number : 017",
+    "seat": "seat number : CC lab , PC number : 016",
     "lab": "CC lab",
-    "pc": "017",
-    "appId": "APP-2026-AKADBR"
+    "pc": "016",
+    "appId": "Shrideep shaurya"
   },
   {
     "id": "KTT18",
     "name": "Shaikh sarfaraz Shaikh Saleem",
     "mobile": "8767849313",
     "email": "s25_shaikh_sarfaraz@mgmcen.ac.in",
-    "seat": "seat number : CC lab , PC number : 018",
+    "seat": "seat number : CC lab , PC number : 017",
     "lab": "CC lab",
-    "pc": "018",
-    "appId": "APP-2026-BME2NA"
+    "pc": "017",
+    "appId": "Shaikh sarfaraz Shaikh Saleem"
   },
   {
     "id": "KTT19",
     "name": "Varad Gandhi",
     "mobile": "9270257351",
     "email": "varadgandhi1406@gmail.com",
-    "seat": "seat number : CC lab , PC number : 019",
+    "seat": "seat number : CC lab , PC number : 018",
     "lab": "CC lab",
-    "pc": "019",
-    "appId": "APP-2026-49DC8A"
+    "pc": "018",
+    "appId": "Varad Gandhi"
   },
   {
     "id": "KTT20",
     "name": "Niraj Padwale",
     "mobile": "7030339733",
     "email": "padwaleniraj@gmail.com",
-    "seat": "seat number : CC lab , PC number : 020",
+    "seat": "seat number : CC lab , PC number : 019",
     "lab": "CC lab",
-    "pc": "020",
-    "appId": "APP-2026-JUHSYK"
+    "pc": "019",
+    "appId": "Niraj Padwale"
   },
   {
     "id": "KTT21",
     "name": "Kanchan Patil",
     "mobile": "9762512689",
     "email": "kanchanpatil071106@gmail.com",
-    "seat": "seat number : CC lab , PC number : 021",
+    "seat": "seat number : CC lab , PC number : 020",
     "lab": "CC lab",
-    "pc": "021",
-    "appId": "APP-2026-ZE9DBR"
+    "pc": "020",
+    "appId": "Kanchan Patil"
   },
   {
     "id": "KTT22",
     "name": "Syed Faiza Nazer Quadri",
     "mobile": "9096650772",
     "email": "faizaquadri252@gmail.com",
-    "seat": "seat number : CC lab , PC number : 022",
+    "seat": "seat number : CC lab , PC number : 021",
     "lab": "CC lab",
-    "pc": "022",
-    "appId": "APP-2026-R5FXZ7"
+    "pc": "021",
+    "appId": "Syed Faiza Nazer Quadri"
   },
   {
     "id": "KTT23",
     "name": "Narendra Narayan Gond",
     "mobile": "8459685041",
     "email": "narendragond012@gmail.com",
-    "seat": "seat number : CC lab , PC number : 023",
+    "seat": "seat number : CC lab , PC number : 022",
     "lab": "CC lab",
-    "pc": "023",
-    "appId": "APP-2026-SGJUQQ"
+    "pc": "022",
+    "appId": "Narendra Narayan Gond"
   },
   {
     "id": "KTT24",
     "name": "Sanjay Singh",
     "mobile": "6260141658",
     "email": "singhsanju0608@gmail.com",
-    "seat": "seat number : CC lab , PC number : 024",
+    "seat": "seat number : CC lab , PC number : 023",
     "lab": "CC lab",
-    "pc": "024",
-    "appId": "APP-2026-Z2HTHR"
+    "pc": "023",
+    "appId": "Sanjay Singh"
   },
   {
     "id": "KTT25",
     "name": "Sairaj Vasudev Sawake",
     "mobile": "8999419203",
     "email": "sairajsawake@gmail.com",
-    "seat": "seat number : CC lab , PC number : 025",
+    "seat": "seat number : CC lab , PC number : 024",
     "lab": "CC lab",
-    "pc": "025",
-    "appId": "APP-2026-QJR9X4"
+    "pc": "024",
+    "appId": "Sairaj Vasudev Sawake"
   },
   {
     "id": "KTT26",
     "name": "Manish Khapare",
     "mobile": "8208346594",
     "email": "manishkhapare17@gmail.com",
-    "seat": "seat number : CC lab , PC number : 026",
+    "seat": "seat number : CC lab , PC number : 025",
     "lab": "CC lab",
-    "pc": "026",
-    "appId": "APP-2026-REDGVS"
+    "pc": "025",
+    "appId": "Manish Khapare"
   },
   {
     "id": "KTT27",
     "name": "Shary Jalkote",
     "mobile": "8605691870",
     "email": "sharyjalkote@gmail.com",
-    "seat": "seat number : CC lab , PC number : 027",
+    "seat": "seat number : CC lab , PC number : 026",
     "lab": "CC lab",
-    "pc": "027",
-    "appId": "APP-2026-HZFYH3"
+    "pc": "026",
+    "appId": "Shary Jalkote"
   },
   {
     "id": "KTT28",
     "name": "Rakshit Nitin Kalaskar",
     "mobile": "7975854751",
     "email": "rakshitkalaskar426@gmail.com",
-    "seat": "seat number : CC lab , PC number : 028",
+    "seat": "seat number : CC lab , PC number : 027",
     "lab": "CC lab",
-    "pc": "028",
-    "appId": "APP-2026-4RBFFJ"
+    "pc": "027",
+    "appId": "Rakshit Nitin Kalaskar"
   },
   {
     "id": "KTT29",
     "name": "Devashish Shinde",
     "mobile": "8087788284",
     "email": "devashishshinde2607@gmail.com",
-    "seat": "seat number : CC lab , PC number : 029",
+    "seat": "seat number : CC lab , PC number : 028",
     "lab": "CC lab",
-    "pc": "029",
-    "appId": "APP-2026-GBC2HC"
+    "pc": "028",
+    "appId": "Devashish Shinde"
   },
   {
     "id": "KTT30",
     "name": "Aaradhya Shekdar",
     "mobile": "9577171065",
     "email": "aaradhya.shek@gmail.com",
-    "seat": "seat number : CC lab , PC number : 030",
+    "seat": "seat number : CC lab , PC number : 029",
     "lab": "CC lab",
-    "pc": "030",
-    "appId": "APP-2026-TZZ8NY"
+    "pc": "029",
+    "appId": "Aaradhya Shekdar"
   },
   {
     "id": "KTT31",
     "name": "Isha Jawalkar",
     "mobile": "+919209730587",
     "email": "jawalkarisha@gmail.com",
-    "seat": "seat number : CC lab , PC number : 031",
+    "seat": "seat number : CC lab , PC number : 030",
     "lab": "CC lab",
-    "pc": "031",
-    "appId": "APP-2026-3F3NNN"
+    "pc": "030",
+    "appId": "Isha Jawalkar"
   },
   {
     "id": "KTT32",
     "name": "Vaishnavi Maroti Bagade",
     "mobile": "+91 92264 60546",
     "email": "bagadevaishanvi@gmail.com",
-    "seat": "seat number : CC lab , PC number : 032",
+    "seat": "seat number : CC lab , PC number : 031",
     "lab": "CC lab",
-    "pc": "032",
-    "appId": "APP-2026-HSHF2C"
+    "pc": "031",
+    "appId": "Vaishnavi Maroti Bagade"
   },
   {
     "id": "KTT33",
     "name": "Sneha mandal",
     "mobile": "8799943401",
     "email": "snehamandal570@gmail.com",
-    "seat": "seat number : CC lab , PC number : 033",
+    "seat": "seat number : CC lab , PC number : 032",
     "lab": "CC lab",
-    "pc": "033",
-    "appId": "APP-2026-NRTQRB"
+    "pc": "032",
+    "appId": "Sneha mandal"
   },
   {
     "id": "KTT34",
     "name": "Alok Singh",
     "mobile": "8626044329",
     "email": "dhanusingh9922@gmail.com",
-    "seat": "seat number : CC lab , PC number : 034",
+    "seat": "seat number : CC lab , PC number : 033",
     "lab": "CC lab",
-    "pc": "034",
-    "appId": "APP-2026-NG5227"
+    "pc": "033",
+    "appId": "Alok Singh"
   },
   {
     "id": "KTT35",
     "name": "Sahil Sonawane",
     "mobile": "9021058594",
     "email": "sahilsonawane.computertcoer@kjei.edu.in",
-    "seat": "seat number : CC lab , PC number : 035",
+    "seat": "seat number : CC lab , PC number : 034",
     "lab": "CC lab",
-    "pc": "035",
-    "appId": "APP-2026-65REEJ"
+    "pc": "034",
+    "appId": "Sahil Sonawane"
   },
   {
     "id": "KTT36",
     "name": "Harsh Ghuge",
     "mobile": "8793166120",
     "email": "harshghuge.computertcoer@kjei.edu.in",
-    "seat": "seat number : CC lab , PC number : 036",
+    "seat": "seat number : CC lab , PC number : 035",
     "lab": "CC lab",
-    "pc": "036",
-    "appId": "APP-2026-DZKB2G"
+    "pc": "035",
+    "appId": "Harsh Ghuge"
   },
   {
     "id": "KTT37",
     "name": "Vinit Niranjan Potdar",
     "mobile": "8262920550",
     "email": "potdarvinit077@gmail.com",
-    "seat": "seat number : CC lab , PC number : 037",
+    "seat": "seat number : CC lab , PC number : 036",
     "lab": "CC lab",
-    "pc": "037",
-    "appId": "APP-2026-EGKPCW"
+    "pc": "036",
+    "appId": "Vinit Niranjan Potdar"
   },
   {
     "id": "KTT38",
     "name": "Prathmesh Mante",
     "mobile": "7517550478",
     "email": "prathmeshmantebuldana@gmail.com",
-    "seat": "seat number : CC lab , PC number : 038",
+    "seat": "seat number : CC lab , PC number : 037",
     "lab": "CC lab",
-    "pc": "038",
-    "appId": "APP-2026-7CJ8KP"
+    "pc": "037",
+    "appId": "Prathmesh Mante"
   },
   {
     "id": "KTT39",
     "name": "Yuvraj khedekar",
     "mobile": "9673608896",
     "email": "yuvrajkhedekar28@gmail.com",
-    "seat": "seat number : CC lab , PC number : 039",
+    "seat": "seat number : CC lab , PC number : 038",
     "lab": "CC lab",
-    "pc": "039",
-    "appId": "APP-2026-M335XP"
+    "pc": "038",
+    "appId": "Yuvraj khedekar"
   },
   {
     "id": "KTT40",
     "name": "Sahil Sah",
     "mobile": "8180098753",
     "email": "sah82098@gmail.com",
-    "seat": "seat number : CC lab , PC number : 040",
+    "seat": "seat number : CC lab , PC number : 039",
     "lab": "CC lab",
-    "pc": "040",
-    "appId": "APP-2026-3EMDYP"
+    "pc": "039",
+    "appId": "Sahil Sah"
   },
   {
     "id": "KTT41",
     "name": "Vinit Gadiya",
     "mobile": "8983396831",
     "email": "gadiyavinit485@gmail.com",
-    "seat": "seat number : CC lab , PC number : 041",
+    "seat": "seat number : CC lab , PC number : 040",
     "lab": "CC lab",
-    "pc": "041",
-    "appId": "APP-2026-BFKB9E"
+    "pc": "040",
+    "appId": "Vinit Gadiya"
   },
   {
     "id": "KTT42",
     "name": "Pandey Gaurav",
     "mobile": "9373040891",
     "email": "forstudywork24x7@gmail.com",
-    "seat": "seat number : CC lab , PC number : 042",
+    "seat": "seat number : CC lab , PC number : 041",
     "lab": "CC lab",
-    "pc": "042",
-    "appId": "APP-2026-D4Z5GH"
+    "pc": "041",
+    "appId": "Pandey Gaurav"
   },
   {
     "id": "KTT43",
     "name": "Prem Yewale",
     "mobile": "9769754988",
     "email": "premyew36@gmail.com",
-    "seat": "seat number : CC lab , PC number : 043",
+    "seat": "seat number : CC lab , PC number : 042",
     "lab": "CC lab",
-    "pc": "043",
-    "appId": "APP-2026-4QZY47"
+    "pc": "042",
+    "appId": "Prem Yewale"
   },
   {
     "id": "KTT44",
     "name": "Shreya bhoi",
     "mobile": "7030594456",
     "email": "shreya258b@gmail.com",
-    "seat": "seat number : CC lab , PC number : 044",
+    "seat": "seat number : CC lab , PC number : 043",
     "lab": "CC lab",
-    "pc": "044",
-    "appId": "APP-2026-7C76XA"
+    "pc": "043",
+    "appId": "Shreya bhoi"
   },
   {
     "id": "KTT45",
     "name": "Vaishnavi Bhimrao Khade",
     "mobile": "8530825066",
     "email": "vaishnavikhade6442@gmail.com",
-    "seat": "seat number : CC lab , PC number : 045",
+    "seat": "seat number : CC lab , PC number : 044",
     "lab": "CC lab",
-    "pc": "045",
-    "appId": "APP-2026-D6G8SX"
+    "pc": "044",
+    "appId": "Vaishnavi Bhimrao Khade"
   },
   {
     "id": "KTT46",
     "name": "Karan Gopinath Dighe",
     "mobile": "9529848673",
     "email": "karandighe950@gmail.com",
-    "seat": "seat number : CC lab , PC number : 046",
+    "seat": "seat number : CC lab , PC number : 045",
     "lab": "CC lab",
-    "pc": "046",
-    "appId": "APP-2026-VU7WP3"
+    "pc": "045",
+    "appId": "Karan Gopinath Dighe"
   },
   {
     "id": "KTT47",
     "name": "Omnath Patil",
     "mobile": "8180054728",
     "email": "omnathpatil4728@gmail.com",
-    "seat": "seat number : CC lab , PC number : 047",
+    "seat": "seat number : CC lab , PC number : 046",
     "lab": "CC lab",
-    "pc": "047",
-    "appId": "APP-2026-BJBVZ5"
+    "pc": "046",
+    "appId": "Omnath Patil"
   },
   {
     "id": "KTT48",
     "name": "Atharv Rokade",
     "mobile": "7448156550",
     "email": "atharvrokade041@gmail.com",
-    "seat": "seat number : CC lab , PC number : 048",
+    "seat": "seat number : CC lab , PC number : 047",
     "lab": "CC lab",
-    "pc": "048",
-    "appId": "APP-2026-JPDPZU"
+    "pc": "047",
+    "appId": "Atharv Rokade"
   },
   {
     "id": "KTT49",
     "name": "Kush Parab",
     "mobile": "8108109246",
     "email": "kushparab18@gmail.com",
-    "seat": "seat number : CC lab , PC number : 049",
+    "seat": "seat number : CC lab , PC number : 048",
     "lab": "CC lab",
-    "pc": "049",
-    "appId": "APP-2026-AAD6A6"
+    "pc": "048",
+    "appId": "Kush Parab"
   },
   {
     "id": "KTT50",
     "name": "Student",
     "mobile": "7820978645",
     "email": "parthsapkal7820@gmail.com",
-    "seat": "seat number : CC lab , PC number : 050",
+    "seat": "seat number : CC lab , PC number : 049",
     "lab": "CC lab",
-    "pc": "050",
-    "appId": "APP-2026-79QKGV"
+    "pc": "049",
+    "appId": "Student"
   },
   {
     "id": "KTT51",
     "name": "PRISHA BANKAR",
     "mobile": "8308868895",
     "email": "prisha.bankar24@vit.edu",
-    "seat": "seat number : CC lab , PC number : 051",
+    "seat": "seat number : CC lab , PC number : 050",
     "lab": "CC lab",
-    "pc": "051",
-    "appId": "APP-2026-9PCEH4"
+    "pc": "050",
+    "appId": "PRISHA BANKAR"
   },
   {
     "id": "KTT52",
     "name": "Atharva Marathe",
     "mobile": "8483928805",
     "email": "maratheatharva707@gmail.com",
-    "seat": "seat number : CC lab , PC number : 052",
+    "seat": "seat number : CC lab , PC number : 051",
     "lab": "CC lab",
-    "pc": "052",
-    "appId": "APP-2026-NF6V6H"
+    "pc": "051",
+    "appId": "Atharva Marathe"
   },
   {
     "id": "KTT53",
     "name": "Gayatri Jadhav",
     "mobile": "7385056176",
     "email": "jgayatri020@gmail.com",
-    "seat": "seat number : CC lab , PC number : 053",
+    "seat": "seat number : CC lab , PC number : 052",
     "lab": "CC lab",
-    "pc": "053",
-    "appId": "APP-2026-MPCUR6"
+    "pc": "052",
+    "appId": "Gayatri Jadhav"
   },
   {
     "id": "KTT54",
     "name": "Sujal Pandurang Chavan",
     "mobile": "8010974956",
     "email": "sujalchavan2910@gmail.com",
-    "seat": "seat number : CC lab , PC number : 054",
+    "seat": "seat number : CC lab , PC number : 053",
     "lab": "CC lab",
-    "pc": "054",
-    "appId": "APP-2026-FAAAZD"
+    "pc": "053",
+    "appId": "Sujal Pandurang Chavan"
   },
   {
     "id": "KTT55",
     "name": "Anshul garg",
     "mobile": "8920566029",
     "email": "annshulgarg@hotmail.com",
-    "seat": "seat number : CC lab , PC number : 055",
+    "seat": "seat number : CC lab , PC number : 054",
     "lab": "CC lab",
-    "pc": "055",
-    "appId": "APP-2026-7MGSEU"
+    "pc": "054",
+    "appId": "Anshul garg"
   },
   {
     "id": "KTT56",
     "name": "Sagar Pawar",
     "mobile": "8806036813",
     "email": "sp3774163@gmail.com",
-    "seat": "seat number : CC lab , PC number : 056",
+    "seat": "seat number : CC lab , PC number : 055",
     "lab": "CC lab",
-    "pc": "056",
-    "appId": "APP-2026-G4GRV6"
+    "pc": "055",
+    "appId": "Sagar Pawar"
   },
   {
     "id": "KTT57",
     "name": "Shreya Dawkhar",
     "mobile": "7709227328",
     "email": "ssd.dawkhar1@gmail.com",
-    "seat": "seat number : CC lab , PC number : 057",
+    "seat": "seat number : CC lab , PC number : 056",
     "lab": "CC lab",
-    "pc": "057",
-    "appId": "APP-2026-PBHCUP"
+    "pc": "056",
+    "appId": "Shreya Dawkhar"
   },
   {
     "id": "KTT58",
     "name": "Aaditya Ravindra Borse",
     "mobile": "7823829426",
     "email": "patilaaditya141@gmail.com",
-    "seat": "seat number : CC lab , PC number : 058",
+    "seat": "seat number : CC lab , PC number : 057",
     "lab": "CC lab",
-    "pc": "058",
-    "appId": "APP-2026-MHM58Y"
+    "pc": "057",
+    "appId": "Aaditya Ravindra Borse"
   },
   {
     "id": "KTT59",
     "name": "Anuradha Dwivedi",
     "mobile": "9175293004",
     "email": "anuradhadwivedi1411@gmail.com",
-    "seat": "seat number : CC lab , PC number : 059",
+    "seat": "seat number : CC lab , PC number : 058",
     "lab": "CC lab",
-    "pc": "059",
-    "appId": "APP-2026-CMGT23"
+    "pc": "058",
+    "appId": "Anuradha Dwivedi"
   },
   {
     "id": "KTT60",
     "name": "Reuel Bodhak",
     "mobile": "7821056663",
     "email": "reuelbodhak07@gmail.com",
-    "seat": "seat number : CC lab , PC number : 060",
+    "seat": "seat number : CC lab , PC number : 059",
     "lab": "CC lab",
-    "pc": "060",
-    "appId": "APP-2026-NYGT9A"
+    "pc": "059",
+    "appId": "Reuel Bodhak"
   },
   {
     "id": "KTT61",
     "name": "Shrikant Raosaheb Todmal",
     "mobile": "8329290327",
     "email": "shrikanttodmal95@gmail.com",
-    "seat": "seat number : CC lab , PC number : 061",
+    "seat": "seat number : CC lab , PC number : 060",
     "lab": "CC lab",
-    "pc": "061",
-    "appId": "APP-2026-E89H95"
+    "pc": "060",
+    "appId": "Shrikant Raosaheb Todmal"
   },
   {
     "id": "KTT62",
     "name": "Prajot Kamble",
     "mobile": "8446035058",
     "email": "kprajot9@gmail.com",
-    "seat": "seat number : CC lab , PC number : 062",
+    "seat": "seat number : CC lab , PC number : 061",
     "lab": "CC lab",
-    "pc": "062",
-    "appId": "APP-2026-ZGMFWT"
+    "pc": "061",
+    "appId": "Prajot Kamble"
   },
   {
     "id": "KTT63",
     "name": "Samarth joshi",
     "mobile": "8010622813",
     "email": "samarth29.in@gmail.com",
-    "seat": "seat number : CC lab , PC number : 063",
+    "seat": "seat number : CC lab , PC number : 062",
     "lab": "CC lab",
-    "pc": "063",
-    "appId": "APP-2026-VVYMGR"
+    "pc": "062",
+    "appId": "Samarth joshi"
   },
   {
     "id": "KTT64",
     "name": "Pranav Shitole",
     "mobile": "8177849343",
     "email": "pranavg1818@gmail.com",
-    "seat": "seat number : CC lab , PC number : 064",
+    "seat": "seat number : CC lab , PC number : 063",
     "lab": "CC lab",
-    "pc": "064",
-    "appId": "APP-2026-FKBFMP"
+    "pc": "063",
+    "appId": "Pranav Shitole"
   },
   {
     "id": "KTT65",
     "name": "Aditya Nath",
     "mobile": "9685838244",
     "email": "adityanath271@gmail.com",
-    "seat": "seat number : CC lab , PC number : 065",
+    "seat": "seat number : CC lab , PC number : 064",
     "lab": "CC lab",
-    "pc": "065",
-    "appId": "APP-2026-BR5TCF"
+    "pc": "064",
+    "appId": "Aditya Nath"
   },
   {
     "id": "KTT66",
     "name": "Anjar Alam",
     "mobile": "9529226040",
     "email": "anjaralam5120@gmail.com",
-    "seat": "seat number : CC lab , PC number : 066",
+    "seat": "seat number : CC lab , PC number : 065",
     "lab": "CC lab",
-    "pc": "066",
-    "appId": "APP-2026-YSRCE4"
+    "pc": "065",
+    "appId": "Anjar Alam"
   },
   {
     "id": "KTT67",
     "name": "Anushka Sunil Bandal",
     "mobile": "7219586698",
     "email": "bandalanushka09@gmail.com",
-    "seat": "seat number : CC lab , PC number : 067",
+    "seat": "seat number : CC lab , PC number : 066",
     "lab": "CC lab",
-    "pc": "067",
-    "appId": "APP-2026-EYEC46"
+    "pc": "066",
+    "appId": "Anushka Sunil Bandal"
   },
   {
     "id": "KTT68",
     "name": "ipshita raiguru",
     "mobile": "9078814358",
     "email": "ipshitaraiguru2008@gmail.com",
-    "seat": "seat number : CC lab , PC number : 068",
+    "seat": "seat number : CC lab , PC number : 067",
     "lab": "CC lab",
-    "pc": "068",
-    "appId": "APP-2026-DFWCB2"
+    "pc": "067",
+    "appId": "ipshita raiguru"
   },
   {
     "id": "KTT69",
     "name": "Poonam Ganesh Poul",
     "mobile": "8668259411",
     "email": "poonampoul24@gmail.com",
-    "seat": "seat number : CC lab , PC number : 069",
+    "seat": "seat number : CC lab , PC number : 068",
     "lab": "CC lab",
-    "pc": "069",
-    "appId": "APP-2026-GDSFB9"
+    "pc": "068",
+    "appId": "Poonam Ganesh Poul"
   },
   {
     "id": "KTT70",
     "name": "Ved Sonar",
     "mobile": "7798021414",
     "email": "sonarpved@gmail.com",
-    "seat": "seat number : CC lab , PC number : 070",
+    "seat": "seat number : CC lab , PC number : 069",
     "lab": "CC lab",
-    "pc": "070",
-    "appId": "APP-2026-PX2EEE"
+    "pc": "069",
+    "appId": "Ved Sonar"
   },
   {
     "id": "KTT71",
     "name": "Mrunali Patil",
     "mobile": "9960463353",
     "email": "patilmrunali776@gmail.com",
-    "seat": "seat number : CC lab , PC number : 071",
+    "seat": "seat number : CC lab , PC number : 070",
     "lab": "CC lab",
-    "pc": "071",
-    "appId": "APP-2026-6XGF5Q"
+    "pc": "070",
+    "appId": "Mrunali Patil"
   },
   {
     "id": "KTT72",
     "name": "Nidhi Khandaskar",
     "mobile": "8799885483",
     "email": "khandaskarnidhi@gmail.com",
-    "seat": "seat number : CC lab , PC number : 072",
+    "seat": "seat number : CC lab , PC number : 071",
     "lab": "CC lab",
-    "pc": "072",
-    "appId": "APP-2026-V2UQXS"
+    "pc": "071",
+    "appId": "Nidhi Khandaskar"
   },
   {
     "id": "KTT73",
     "name": "Aditya Punde",
     "mobile": "9022749382",
     "email": "adipu2006@gmail.com",
-    "seat": "seat number : CC lab , PC number : 073",
+    "seat": "seat number : CC lab , PC number : 072",
     "lab": "CC lab",
-    "pc": "073",
-    "appId": "APP-2026-VF6MHY"
+    "pc": "072",
+    "appId": "Aditya Punde"
   },
   {
     "id": "KTT74",
     "name": "Preet Adhav",
     "mobile": "8446471147",
     "email": "preetadhav4242@gmail.com",
-    "seat": "seat number : CC lab , PC number : 074",
+    "seat": "seat number : CC lab , PC number : 073",
     "lab": "CC lab",
-    "pc": "074",
-    "appId": "APP-2026-BWHXPC"
+    "pc": "073",
+    "appId": "Preet Adhav"
   },
   {
     "id": "KTT75",
     "name": "Sandhya Pawar",
     "mobile": "9022910721",
     "email": "123sandhyapawar@gmail.com",
-    "seat": "seat number : CC lab , PC number : 075",
+    "seat": "seat number : CC lab , PC number : 074",
     "lab": "CC lab",
-    "pc": "075",
-    "appId": "APP-2026-3E3EV5"
+    "pc": "074",
+    "appId": "Sandhya Pawar"
   },
   {
     "id": "KTT76",
     "name": "Student",
     "mobile": "+91 9284020497",
     "email": "shubhamabc314@gmail.com",
-    "seat": "seat number : CC lab , PC number : 076",
+    "seat": "seat number : CC lab , PC number : 075",
     "lab": "CC lab",
-    "pc": "076",
-    "appId": "APP-2026-BZRYEW"
+    "pc": "075",
+    "appId": "Student"
   },
   {
     "id": "KTT77",
     "name": "Krushna bhusal",
     "mobile": "9922323379",
     "email": "krishnabhusal9922@gmail.com",
-    "seat": "seat number : CC lab , PC number : 077",
+    "seat": "seat number : CC lab , PC number : 076",
     "lab": "CC lab",
-    "pc": "077",
-    "appId": "APP-2026-274G45"
+    "pc": "076",
+    "appId": "Krushna bhusal"
   },
   {
     "id": "KTT78",
     "name": "Navnit Naman",
     "mobile": "9263973810",
     "email": "navnitnaman641@gmail.com",
-    "seat": "seat number : CC lab , PC number : 078",
+    "seat": "seat number : CC lab , PC number : 077",
     "lab": "CC lab",
-    "pc": "078",
-    "appId": "APP-2026-X542TN"
+    "pc": "077",
+    "appId": "Navnit Naman"
   },
   {
     "id": "KTT79",
     "name": "Shrutika Atakale",
     "mobile": "9529646031",
     "email": "atakaleshrutika@gmail.com",
-    "seat": "seat number : CC lab , PC number : 079",
+    "seat": "seat number : CC lab , PC number : 078",
     "lab": "CC lab",
-    "pc": "079",
-    "appId": "APP-2026-GUXATM"
+    "pc": "078",
+    "appId": "Shrutika Atakale"
   },
   {
     "id": "KTT80",
     "name": "Arya shinde",
     "mobile": "9823527252",
     "email": "aryashinde6670@gmail.com",
-    "seat": "seat number : CC lab , PC number : 080",
+    "seat": "seat number : CC lab , PC number : 079",
     "lab": "CC lab",
-    "pc": "080",
-    "appId": "APP-2026-HFRJWC"
+    "pc": "079",
+    "appId": "Arya shinde"
   },
   {
     "id": "KTT81",
     "name": "Gautam Chaudhary",
     "mobile": "7822813142",
     "email": "chaudharygautam970@gmail.com",
-    "seat": "seat number : CC lab , PC number : 081",
+    "seat": "seat number : CC lab , PC number : 080",
     "lab": "CC lab",
-    "pc": "081",
-    "appId": "APP-2026-DPFEK4"
+    "pc": "080",
+    "appId": "Gautam Chaudhary"
   },
   {
     "id": "KTT82",
     "name": "Shreya Devanand Panaskar",
     "mobile": "9370925663",
     "email": "shreyapanaskar03@gmail.com",
-    "seat": "seat number : CC lab , PC number : 082",
+    "seat": "seat number : CC lab , PC number : 081",
     "lab": "CC lab",
-    "pc": "082",
-    "appId": "APP-2026-PP8MVW"
+    "pc": "081",
+    "appId": "Shreya Devanand Panaskar"
   },
   {
     "id": "KTT83",
     "name": "Gauri Pramod Gundewar",
     "mobile": "9822082766",
     "email": "gaurigundewar23@gmail.com",
-    "seat": "seat number : CC lab , PC number : 083",
+    "seat": "seat number : CC lab , PC number : 082",
     "lab": "CC lab",
-    "pc": "083",
-    "appId": "APP-2026-KU36VG"
+    "pc": "082",
+    "appId": "Gauri Pramod Gundewar"
   },
   {
     "id": "KTT84",
     "name": "Vedansh Mirajkar",
     "mobile": "+919423326650",
     "email": "vedanshcse2007@gmail.com",
-    "seat": "seat number : CC lab , PC number : 084",
+    "seat": "seat number : CC lab , PC number : 083",
     "lab": "CC lab",
-    "pc": "084",
-    "appId": "APP-2026-NZ9UHU"
+    "pc": "083",
+    "appId": "Vedansh Mirajkar"
   },
   {
     "id": "KTT85",
     "name": "Prasad Wagh",
     "mobile": "8421108504",
     "email": "prasadwaghpatil2004@gmail.com",
-    "seat": "seat number : CC lab , PC number : 085",
+    "seat": "seat number : CC lab , PC number : 084",
     "lab": "CC lab",
-    "pc": "085",
-    "appId": "APP-2026-HWXP6B"
+    "pc": "084",
+    "appId": "Prasad Wagh"
   },
   {
     "id": "KTT86",
     "name": "Kunal Nimkande",
     "mobile": "9021008102",
     "email": "kunalnimkande191@gmail.com",
-    "seat": "seat number : CC lab , PC number : 086",
+    "seat": "seat number : CC lab , PC number : 085",
     "lab": "CC lab",
-    "pc": "086",
-    "appId": "APP-2026-72KGX7"
+    "pc": "085",
+    "appId": "Kunal Nimkande"
   },
   {
     "id": "KTT87",
     "name": "Shruti Chauhan",
     "mobile": "8080488737",
     "email": "shrutichauhan873@gmail.com",
-    "seat": "seat number : CC lab , PC number : 087",
+    "seat": "seat number : CC lab , PC number : 086",
     "lab": "CC lab",
-    "pc": "087",
-    "appId": "APP-2026-VGKHWV"
+    "pc": "086",
+    "appId": "Shruti Chauhan"
   },
   {
     "id": "KTT88",
     "name": "Snehal Rajaram Shinde",
     "mobile": "7822835810",
     "email": "snehalshinde82451@gmail.com",
-    "seat": "seat number : CC lab , PC number : 088",
+    "seat": "seat number : CC lab , PC number : 087",
     "lab": "CC lab",
-    "pc": "088",
-    "appId": "APP-2026-MDUFSQ"
+    "pc": "087",
+    "appId": "Snehal Rajaram Shinde"
   },
   {
     "id": "KTT89",
     "name": "Student",
     "mobile": "8180843108",
     "email": "tanmaywadile97@gmail.com",
-    "seat": "seat number : CC lab , PC number : 089",
+    "seat": "seat number : CC lab , PC number : 088",
     "lab": "CC lab",
-    "pc": "089",
-    "appId": "APP-2026-BDER2T"
+    "pc": "088",
+    "appId": "Student"
   },
   {
     "id": "KTT90",
     "name": "Om Chandurkar",
     "mobile": "+91 8149312060",
     "email": "chandurkarom07@gmail.com",
-    "seat": "seat number : CC lab , PC number : 090",
+    "seat": "seat number : CC lab , PC number : 089",
     "lab": "CC lab",
-    "pc": "090",
-    "appId": "APP-2026-EX2797"
+    "pc": "089",
+    "appId": "Om Chandurkar"
   },
   {
     "id": "KTT91",
     "name": "Palak Krishna Shetkar",
     "mobile": "7020782743",
     "email": "palakshetkar14@gmail.com",
-    "seat": "seat number : CC lab , PC number : 091",
+    "seat": "seat number : CC lab , PC number : 090",
     "lab": "CC lab",
-    "pc": "091",
-    "appId": "APP-2026-U4N582"
+    "pc": "090",
+    "appId": "Palak Krishna Shetkar"
   },
   {
     "id": "KTT92",
     "name": "Vedant Mhatre",
     "mobile": "+91 88304 07801",
     "email": "vedantmhatre054@gmail.com",
-    "seat": "seat number : CC lab , PC number : 092",
+    "seat": "seat number : CC lab , PC number : 091",
     "lab": "CC lab",
-    "pc": "092",
-    "appId": "APP-2026-V35X4X"
+    "pc": "091",
+    "appId": "Vedant Mhatre"
   },
   {
     "id": "KTT93",
     "name": "Lata sasane",
     "mobile": "8483859000",
     "email": "sasanelata05@gmail.com",
-    "seat": "seat number : CC lab , PC number : 093",
+    "seat": "seat number : CC lab , PC number : 092",
     "lab": "CC lab",
-    "pc": "093",
-    "appId": "APP-2026-KKQFEM"
+    "pc": "092",
+    "appId": "Lata sasane"
   },
   {
     "id": "KTT94",
     "name": "Prasad Bhalerao",
     "mobile": "8055882377",
     "email": "prasad9a38@gmail.com",
-    "seat": "seat number : CC lab , PC number : 094",
+    "seat": "seat number : CC lab , PC number : 093",
     "lab": "CC lab",
-    "pc": "094",
-    "appId": "APP-2026-NTDPZK"
+    "pc": "093",
+    "appId": "Prasad Bhalerao"
   },
   {
     "id": "KTT95",
     "name": "Anup Padmakar Sakhare",
     "mobile": "9373038282",
     "email": "anupsakhare18@gmail.com",
-    "seat": "seat number : CC lab , PC number : 095",
+    "seat": "seat number : CC lab , PC number : 094",
     "lab": "CC lab",
-    "pc": "095",
-    "appId": "APP-2026-F7WSV4"
+    "pc": "094",
+    "appId": "Anup Padmakar Sakhare"
   },
   {
     "id": "KTT96",
     "name": "Arnav Maheshwari",
     "mobile": "+917558365990",
     "email": "arnavladdha450@gmail.com",
-    "seat": "seat number : CC lab , PC number : 096",
+    "seat": "seat number : CC lab , PC number : 095",
     "lab": "CC lab",
-    "pc": "096",
-    "appId": "APP-2026-2RRGUK"
+    "pc": "095",
+    "appId": "Arnav Maheshwari"
   },
   {
     "id": "KTT97",
     "name": "Sujal Lijade",
     "mobile": "7057877970",
     "email": "sujallijade@gmail.com",
-    "seat": "seat number : CC lab , PC number : 097",
+    "seat": "seat number : CC lab , PC number : 096",
     "lab": "CC lab",
-    "pc": "097",
-    "appId": "APP-2026-84CHGY"
+    "pc": "096",
+    "appId": "Sujal Lijade"
   },
   {
     "id": "KTT98",
     "name": "Sangmeshwar Bhujbal",
     "mobile": "8080954354",
     "email": "sangambhujbal12@gmail.com",
-    "seat": "seat number : CC lab , PC number : 098",
+    "seat": "seat number : CC lab , PC number : 097",
     "lab": "CC lab",
-    "pc": "098",
-    "appId": "APP-2026-KQCAF6"
+    "pc": "097",
+    "appId": "Sangmeshwar Bhujbal"
   },
   {
     "id": "KTT99",
     "name": "Karan Ohol",
     "mobile": "8459014052",
     "email": "oholkaran3@gmail.com",
-    "seat": "seat number : CC lab , PC number : 099",
+    "seat": "seat number : CC lab , PC number : 098",
     "lab": "CC lab",
-    "pc": "099",
-    "appId": "APP-2026-N9BQCE"
+    "pc": "098",
+    "appId": "Karan Ohol"
   },
   {
     "id": "KTT100",
     "name": "Tanmay Patil",
     "mobile": "8766674821",
     "email": "tp628271@gmail.com",
-    "seat": "seat number : CC lab , PC number : 100",
+    "seat": "seat number : CC lab , PC number : 099",
     "lab": "CC lab",
-    "pc": "100",
-    "appId": "APP-2026-NAWT9Z"
+    "pc": "099",
+    "appId": "Tanmay Patil"
   },
   {
     "id": "KTT101",
     "name": "Satyajit Nangare",
     "mobile": "8275309900",
     "email": "satyajitnangare2016@gmail.com",
-    "seat": "seat number : CC lab , PC number : 101",
+    "seat": "seat number : CC lab , PC number : 100",
     "lab": "CC lab",
-    "pc": "101",
-    "appId": "APP-2026-Z6FGRU"
+    "pc": "100",
+    "appId": "Satyajit Nangare"
   },
   {
     "id": "KTT102",
     "name": "Rohit Phand",
     "mobile": "8007004510",
     "email": "rohitphand336@gmail.com",
-    "seat": "seat number : CC lab , PC number : 102",
+    "seat": "seat number : CC lab , PC number : 101",
     "lab": "CC lab",
-    "pc": "102",
-    "appId": "APP-2026-GRH6QV"
+    "pc": "101",
+    "appId": "Rohit Phand"
   },
   {
     "id": "KTT103",
     "name": "Shahebaz khan",
     "mobile": "9923567370",
     "email": "s25_khan_shahebaz@mgmcen.ac.in",
-    "seat": "seat number : CC lab , PC number : 103",
+    "seat": "seat number : CC lab , PC number : 102",
     "lab": "CC lab",
-    "pc": "103",
-    "appId": "APP-2026-WNBZJD"
+    "pc": "102",
+    "appId": "Shahebaz khan"
   },
   {
     "id": "KTT104",
     "name": "Onkar Bobade",
     "mobile": "7823037230",
     "email": "onkarbobade395@gmail.com",
-    "seat": "seat number : CC lab , PC number : 104",
+    "seat": "seat number : CC lab , PC number : 103",
     "lab": "CC lab",
-    "pc": "104",
-    "appId": "APP-2026-W6F52A"
+    "pc": "103",
+    "appId": "Onkar Bobade"
   },
   {
     "id": "KTT105",
     "name": "Yash Dhodare",
     "mobile": "9022867457",
     "email": "yashdhodare541@gmail.com",
-    "seat": "seat number : CC lab , PC number : 105",
+    "seat": "seat number : CC lab , PC number : 104",
     "lab": "CC lab",
-    "pc": "105",
-    "appId": "APP-2026-V8WHDP"
+    "pc": "104",
+    "appId": "Yash Dhodare"
   },
   {
     "id": "KTT106",
     "name": "Makrand Wasudeo Rane",
     "mobile": "919226341859",
     "email": "makrandrane8@gmail.com",
-    "seat": "seat number : CC lab , PC number : 106",
+    "seat": "seat number : CC lab , PC number : 105",
     "lab": "CC lab",
-    "pc": "106",
-    "appId": "APP-2026-VMMSED"
+    "pc": "105",
+    "appId": "Makrand Wasudeo Rane"
   },
   {
     "id": "KTT107",
     "name": "Mohit Potpalliwar",
     "mobile": "8624055811",
     "email": "mohitpotpalliwar@gmail.com",
-    "seat": "seat number : CC lab , PC number : 107",
+    "seat": "seat number : CC lab , PC number : 106",
     "lab": "CC lab",
-    "pc": "107",
-    "appId": "APP-2026-M5QKUE"
+    "pc": "106",
+    "appId": "Mohit Potpalliwar"
   },
   {
     "id": "KTT108",
     "name": "Namaswi Tawade",
     "mobile": "7972370687",
     "email": "namaswitawade@gmail.com",
-    "seat": "seat number : CC lab , PC number : 108",
+    "seat": "seat number : CC lab , PC number : 107",
     "lab": "CC lab",
-    "pc": "108",
-    "appId": "APP-2026-7ZDVX7"
+    "pc": "107",
+    "appId": "Namaswi Tawade"
   },
   {
     "id": "KTT109",
     "name": "Arjun Pal",
     "mobile": "8291005921",
     "email": "arjun9321145@gmail.com",
-    "seat": "seat number : CC lab , PC number : 109",
+    "seat": "seat number : CC lab , PC number : 108",
     "lab": "CC lab",
-    "pc": "109",
-    "appId": "APP-2026-34JRMV"
+    "pc": "108",
+    "appId": "Arjun Pal"
   },
   {
     "id": "KTT110",
     "name": "Abhinav Inje",
     "mobile": "8766813787",
     "email": "abhinavinje82@gmail.com",
-    "seat": "seat number : CC lab , PC number : 110",
+    "seat": "seat number : CC lab , PC number : 109",
     "lab": "CC lab",
-    "pc": "110",
-    "appId": "APP-2026-9K4FXB"
+    "pc": "109",
+    "appId": "Abhinav Inje"
   },
   {
     "id": "KTT111",
     "name": "Avanti Sanstosh Aher",
     "mobile": "+91 74994 92158",
     "email": "avantiaher333@gmail.com",
-    "seat": "seat number : CC lab , PC number : 111",
+    "seat": "seat number : CC lab , PC number : 110",
     "lab": "CC lab",
-    "pc": "111",
-    "appId": "APP-2026-89VQNF"
+    "pc": "110",
+    "appId": "Avanti Sanstosh Aher"
   },
   {
     "id": "KTT112",
     "name": "Vedant Pawar",
     "mobile": "9225160580",
     "email": "vedantpawar4528@gmail.com",
-    "seat": "seat number : CC lab , PC number : 112",
+    "seat": "seat number : CC lab , PC number : 111",
     "lab": "CC lab",
-    "pc": "112",
-    "appId": "APP-2026-ERJJ4C"
+    "pc": "111",
+    "appId": "Vedant Pawar"
   },
   {
     "id": "KTT113",
     "name": "Atharva Nalage",
     "mobile": "8055301551",
     "email": "atharvarnalage22@gmail.com",
-    "seat": "seat number : CC lab , PC number : 113",
+    "seat": "seat number : CC lab , PC number : 112",
     "lab": "CC lab",
-    "pc": "113",
-    "appId": "APP-2026-RWG735"
+    "pc": "112",
+    "appId": "Atharva Nalage"
   },
   {
     "id": "KTT114",
     "name": "Ajay Khalangre",
     "mobile": "9373901440",
     "email": "ajaykhalangre294@gmail.com",
-    "seat": "seat number : CC lab , PC number : 114",
+    "seat": "seat number : CC lab , PC number : 113",
     "lab": "CC lab",
-    "pc": "114",
-    "appId": "APP-2026-TM6ER7"
+    "pc": "113",
+    "appId": "Ajay Khalangre"
   },
   {
     "id": "KTT115",
     "name": "Samruddhi Kadam",
     "mobile": "9284775787",
     "email": "samukadam2409@gmail.com",
-    "seat": "seat number : CC lab , PC number : 115",
+    "seat": "seat number : CC lab , PC number : 114",
     "lab": "CC lab",
-    "pc": "115",
-    "appId": "APP-2026-3EYKHQ"
+    "pc": "114",
+    "appId": "Samruddhi Kadam"
   },
   {
     "id": "KTT116",
     "name": "Shweta Jalindar Shinde",
     "mobile": "9322021006",
     "email": "shindeshweta702@gmail.com",
-    "seat": "seat number : CC lab , PC number : 116",
+    "seat": "seat number : CC lab , PC number : 115",
     "lab": "CC lab",
-    "pc": "116",
-    "appId": "APP-2026-RMVHPB"
+    "pc": "115",
+    "appId": "Shweta Jalindar Shinde"
   },
   {
     "id": "KTT117",
     "name": "Purva Patil",
     "mobile": "7588174365",
     "email": "patilpurva172@gmail.com",
-    "seat": "seat number : CC lab , PC number : 117",
+    "seat": "seat number : CC lab , PC number : 116",
     "lab": "CC lab",
-    "pc": "117",
-    "appId": "APP-2026-QCPBV6"
+    "pc": "116",
+    "appId": "Purva Patil"
   },
   {
     "id": "KTT118",
     "name": "Sangharsh Khade",
     "mobile": "9699325758",
     "email": "sangharshkhade2802@gmail.com",
-    "seat": "seat number : CC lab , PC number : 118",
+    "seat": "seat number : CC lab , PC number : 117",
     "lab": "CC lab",
-    "pc": "118",
-    "appId": "APP-2026-UW6U4H"
+    "pc": "117",
+    "appId": "Sangharsh Khade"
   },
   {
     "id": "KTT119",
     "name": "shubham singh",
     "mobile": "8830865754",
     "email": "singhshubham1921@gmail.com",
-    "seat": "seat number : CC lab , PC number : 119",
+    "seat": "seat number : CC lab , PC number : 118",
     "lab": "CC lab",
-    "pc": "119",
-    "appId": "APP-2026-BKMAUK"
+    "pc": "118",
+    "appId": "shubham singh"
   },
   {
     "id": "KTT120",
     "name": "Gauri Dhanashetti",
     "mobile": "9096006639",
     "email": "dhanashettigauri@gmail.com",
-    "seat": "seat number : CC lab , PC number : 120",
+    "seat": "seat number : CC lab , PC number : 119",
     "lab": "CC lab",
-    "pc": "120",
-    "appId": "APP-2026-5ADZHY"
+    "pc": "119",
+    "appId": "Gauri Dhanashetti"
   },
   {
     "id": "KTT121",
     "name": "Ganesh Shewale",
     "mobile": "7767020425",
     "email": "shewaleganesh05@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 001",
-    "lab": "HPCC lab",
-    "pc": "001",
-    "appId": "APP-2026-MGVRFC"
+    "seat": "seat number : CC lab , PC number : 120",
+    "lab": "CC lab",
+    "pc": "120",
+    "appId": "Ganesh Shewale"
   },
   {
     "id": "KTT122",
     "name": "Samiksha Raundal",
     "mobile": "8999376252",
     "email": "spraundal23@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 002",
+    "seat": "seat number : HPCC lab , PC number : 001",
     "lab": "HPCC lab",
-    "pc": "002",
-    "appId": "APP-2026-8GFKQ5"
+    "pc": "001",
+    "appId": "Samiksha Raundal"
   },
   {
     "id": "KTT123",
+    "name": "Om jagtap",
+    "mobile": "9552130097",
+    "email": "omjagtap95521@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 002",
+    "lab": "HPCC lab",
+    "pc": "002",
+    "appId": "Om jagtap"
+  },
+  {
+    "id": "KTT124",
     "name": "Rohan Nanaware",
     "mobile": "7620112449",
     "email": "nanawarerohan58@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 003",
     "lab": "HPCC lab",
     "pc": "003",
-    "appId": "APP-2026-BNY4RM"
+    "appId": "Rohan Nanaware"
   },
   {
-    "id": "KTT124",
+    "id": "KTT125",
     "name": "Abhishek ahirrao",
     "mobile": "7972423281",
     "email": "aahirrao167200@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 004",
     "lab": "HPCC lab",
     "pc": "004",
-    "appId": "APP-2026-XDEM4P"
+    "appId": "Abhishek ahirrao"
   },
   {
-    "id": "KTT125",
+    "id": "KTT126",
     "name": "Sujal Musle",
     "mobile": "7378335908",
     "email": "sujalmusle8913@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 005",
     "lab": "HPCC lab",
     "pc": "005",
-    "appId": "APP-2026-SYHQ35"
+    "appId": "Sujal Musle"
   },
   {
-    "id": "KTT126",
+    "id": "KTT127",
     "name": "Atharva shende",
     "mobile": "7758041450",
     "email": "atharvashende26@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 006",
     "lab": "HPCC lab",
     "pc": "006",
-    "appId": "APP-2026-9SB4AT"
+    "appId": "Atharva shende"
   },
   {
-    "id": "KTT127",
+    "id": "KTT128",
     "name": "Rohit balaji Hajgude",
     "mobile": "7249396385",
     "email": "64gude@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 007",
     "lab": "HPCC lab",
     "pc": "007",
-    "appId": "APP-2026-ZTSZ6S"
+    "appId": "Rohit balaji Hajgude"
   },
   {
-    "id": "KTT128",
+    "id": "KTT129",
     "name": "Gauri sonwane",
     "mobile": "9209266323",
     "email": "pritibhushan3006@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 008",
     "lab": "HPCC lab",
     "pc": "008",
-    "appId": "APP-2026-QWMKGH"
+    "appId": "Gauri sonwane"
   },
   {
-    "id": "KTT129",
+    "id": "KTT130",
     "name": "Nandini satpute",
     "mobile": "9764831075",
     "email": "nsatpute2010@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 009",
     "lab": "HPCC lab",
     "pc": "009",
-    "appId": "APP-2026-T2KXPX"
+    "appId": "Nandini satpute"
   },
   {
-    "id": "KTT130",
+    "id": "KTT131",
     "name": "Riddhi shelke",
     "mobile": "8485847241",
     "email": "riddhishelke60@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 010",
     "lab": "HPCC lab",
     "pc": "010",
-    "appId": "APP-2026-JT28NU"
+    "appId": "Riddhi shelke"
   },
   {
-    "id": "KTT131",
+    "id": "KTT132",
     "name": "Pranav Vitthal Bothe",
     "mobile": "7666559756",
     "email": "pranavbothe22@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 011",
     "lab": "HPCC lab",
     "pc": "011",
-    "appId": "APP-2026-NSTADK"
+    "appId": "Pranav Vitthal Bothe"
   },
   {
-    "id": "KTT132",
+    "id": "KTT133",
     "name": "Bhakti sargar",
     "mobile": "8530357244",
     "email": "bhaktisargar001@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 012",
     "lab": "HPCC lab",
     "pc": "012",
-    "appId": "APP-2026-CUFB7V"
+    "appId": "Bhakti sargar"
   },
   {
-    "id": "KTT133",
+    "id": "KTT134",
     "name": "Humera Ibrahim shaikh",
     "mobile": "9096566527",
     "email": "hhhibrahimshaikh@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 013",
     "lab": "HPCC lab",
     "pc": "013",
-    "appId": "APP-2026-PGFGKB"
+    "appId": "Humera Ibrahim shaikh"
   },
   {
-    "id": "KTT134",
+    "id": "KTT135",
     "name": "Shrishti Singh",
     "mobile": "9696034382",
     "email": "shrishti.singh.20080814@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 014",
     "lab": "HPCC lab",
     "pc": "014",
-    "appId": "APP-2026-VMSQRN"
+    "appId": "Shrishti Singh"
   },
   {
-    "id": "KTT135",
+    "id": "KTT136",
     "name": "Aarya Lahamage",
     "mobile": "7620184176",
     "email": "aarya.1251030114@vit.edu",
     "seat": "seat number : HPCC lab , PC number : 015",
     "lab": "HPCC lab",
     "pc": "015",
-    "appId": "APP-2026-33F73E"
+    "appId": "Aarya Lahamage"
   },
   {
-    "id": "KTT136",
+    "id": "KTT137",
     "name": "Prachi Das",
     "mobile": "8415890688",
     "email": "dasprachi@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 016",
     "lab": "HPCC lab",
     "pc": "016",
-    "appId": "APP-2026-VV8D26"
+    "appId": "Prachi Das"
   },
   {
-    "id": "KTT137",
+    "id": "KTT138",
     "name": "Hemangi Patil",
     "mobile": "9309950244",
     "email": "hemangipatil0612@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 017",
     "lab": "HPCC lab",
     "pc": "017",
-    "appId": "APP-2026-ENUNWW"
+    "appId": "Hemangi Patil"
   },
   {
-    "id": "KTT138",
+    "id": "KTT139",
     "name": "Nishigandha Bhavsar",
     "mobile": "+91 90335 66446",
     "email": "nishigandhabhavsar@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 018",
     "lab": "HPCC lab",
     "pc": "018",
-    "appId": "APP-2026-ZMCMQY"
+    "appId": "Nishigandha Bhavsar"
   },
   {
-    "id": "KTT139",
+    "id": "KTT140",
     "name": "Amruta kalel",
     "mobile": "9172642580",
     "email": "amrutaskalel09@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 019",
     "lab": "HPCC lab",
     "pc": "019",
-    "appId": "APP-2026-EQZX67"
+    "appId": "Amruta kalel"
   },
   {
-    "id": "KTT140",
+    "id": "KTT141",
     "name": "Vaishnavi Sawant",
     "mobile": "9146277145",
     "email": "vaishnavisawant1502@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 020",
     "lab": "HPCC lab",
     "pc": "020",
-    "appId": "APP-2026-ZRDNGU"
+    "appId": "Vaishnavi Sawant"
   },
   {
-    "id": "KTT141",
+    "id": "KTT142",
     "name": "Prachi Devendra Shewale",
     "mobile": "8421625483",
     "email": "shewaleprachi20@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 021",
     "lab": "HPCC lab",
     "pc": "021",
-    "appId": "APP-2026-XGU9SH"
+    "appId": "Prachi Devendra Shewale"
   },
   {
-    "id": "KTT142",
+    "id": "KTT143",
     "name": "Ruchita Panse",
     "mobile": "8767529762",
     "email": "ruchita.1251130292@vit.edu",
     "seat": "seat number : HPCC lab , PC number : 022",
     "lab": "HPCC lab",
     "pc": "022",
-    "appId": "APP-2026-6M5TSS"
+    "appId": "Ruchita Panse"
   },
   {
-    "id": "KTT143",
+    "id": "KTT144",
     "name": "Sarang Ghanwat",
     "mobile": "9226505647",
     "email": "sarangghanwat1@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 023",
     "lab": "HPCC lab",
     "pc": "023",
-    "appId": "APP-2026-JWDU3W"
+    "appId": "Sarang Ghanwat"
   },
   {
-    "id": "KTT144",
+    "id": "KTT145",
     "name": "Samarth Wagh",
     "mobile": "+919021850323",
     "email": "waghsamarth572@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 024",
     "lab": "HPCC lab",
     "pc": "024",
-    "appId": "APP-2026-KCF8KY"
+    "appId": "Samarth Wagh"
   },
   {
-    "id": "KTT145",
+    "id": "KTT146",
     "name": "Nitesh Singh",
     "mobile": "7218371017",
     "email": "niteshsingh57371@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 025",
     "lab": "HPCC lab",
     "pc": "025",
-    "appId": "APP-2026-FRPYM2"
+    "appId": "Nitesh Singh"
   },
   {
-    "id": "KTT146",
+    "id": "KTT147",
     "name": "Manikantha Badiger",
     "mobile": "7975585804",
     "email": "martistreynolds7@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 026",
     "lab": "HPCC lab",
     "pc": "026",
-    "appId": "APP-2026-9KC82A"
+    "appId": "Manikantha Badiger"
   },
   {
-    "id": "KTT147",
+    "id": "KTT148",
     "name": "Shreyasri Pradhan",
     "mobile": "8855075484",
     "email": "pradhanshreyasri798@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 027",
     "lab": "HPCC lab",
     "pc": "027",
-    "appId": "APP-2026-7SJA8D"
+    "appId": "Shreyasri Pradhan"
   },
   {
-    "id": "KTT148",
+    "id": "KTT149",
     "name": "Madhura shinde",
     "mobile": "9970469933",
     "email": "shindemadhura1302@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 028",
     "lab": "HPCC lab",
     "pc": "028",
-    "appId": "APP-2026-HB5BH2"
+    "appId": "Madhura shinde"
   },
   {
-    "id": "KTT149",
+    "id": "KTT150",
     "name": "ishwari fatangare",
     "mobile": "8554969144",
     "email": "ishwarifatangare08@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 029",
     "lab": "HPCC lab",
     "pc": "029",
-    "appId": "APP-2026-FW5FFZ"
+    "appId": "ishwari fatangare"
   },
   {
-    "id": "KTT150",
+    "id": "KTT151",
     "name": "Vedant Gosavi",
     "mobile": "9503944437",
     "email": "sentinel.vg67@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 030",
     "lab": "HPCC lab",
     "pc": "030",
-    "appId": "APP-2026-HU3GEC"
+    "appId": "Vedant Gosavi"
   },
   {
-    "id": "KTT151",
+    "id": "KTT152",
     "name": "Sarthak Shelar",
     "mobile": "9511207464",
     "email": "sarthak.shelar.96@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 031",
     "lab": "HPCC lab",
     "pc": "031",
-    "appId": "APP-2026-4VQ6KD"
+    "appId": "Sarthak Shelar"
   },
   {
-    "id": "KTT152",
+    "id": "KTT153",
     "name": "Tushar Bhalghare",
     "mobile": "8530781863",
     "email": "tbtusharbhalghare30@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 032",
     "lab": "HPCC lab",
     "pc": "032",
-    "appId": "APP-2026-ZCSJGH"
+    "appId": "Tushar Bhalghare"
   },
   {
-    "id": "KTT153",
+    "id": "KTT154",
     "name": "Sarthak Gadhe",
     "mobile": "9579679579",
     "email": "sarthakgadhe1@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 033",
     "lab": "HPCC lab",
     "pc": "033",
-    "appId": "APP-2026-8JKSSP"
+    "appId": "Sarthak Gadhe"
   },
   {
-    "id": "KTT154",
+    "id": "KTT155",
     "name": "Unnati Kurallu",
     "mobile": "8857867825",
     "email": "unnatikurallu@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 034",
     "lab": "HPCC lab",
     "pc": "034",
-    "appId": "APP-2026-NG9JYG"
+    "appId": "Unnati Kurallu"
   },
   {
-    "id": "KTT155",
+    "id": "KTT156",
     "name": "Soham Godse",
     "mobile": "7875801712",
     "email": "sohamgodse17@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 035",
     "lab": "HPCC lab",
     "pc": "035",
-    "appId": "APP-2026-N5VFN5"
+    "appId": "Soham Godse"
   },
   {
-    "id": "KTT156",
+    "id": "KTT157",
     "name": "Tushar wagh",
     "mobile": "7822055890",
     "email": "waghtushar982@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 036",
     "lab": "HPCC lab",
     "pc": "036",
-    "appId": "APP-2026-H7MM38"
+    "appId": "Tushar wagh"
   },
   {
-    "id": "KTT157",
+    "id": "KTT158",
     "name": "Aditya Chandane",
     "mobile": "+91 9511606581",
     "email": "adityachandane71@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 037",
     "lab": "HPCC lab",
     "pc": "037",
-    "appId": "APP-2026-7P8HJR"
+    "appId": "Aditya Chandane"
   },
   {
-    "id": "KTT158",
+    "id": "KTT159",
     "name": "Asmita Rohakale",
     "mobile": "7249343098",
     "email": "asmitarohakale2110@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 038",
     "lab": "HPCC lab",
     "pc": "038",
-    "appId": "APP-2026-F8QMZC"
+    "appId": "Asmita Rohakale"
   },
   {
-    "id": "KTT159",
+    "id": "KTT160",
     "name": "Sindhuja Patil",
     "mobile": "8856842348",
     "email": "patilsindhuja20@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 039",
     "lab": "HPCC lab",
     "pc": "039",
-    "appId": "APP-2026-PGHTWE"
+    "appId": "Sindhuja Patil"
   },
   {
-    "id": "KTT160",
+    "id": "KTT161",
     "name": "Abhinav Nagare",
     "mobile": "8421059727",
     "email": "abhinavnagare9@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 040",
     "lab": "HPCC lab",
     "pc": "040",
-    "appId": "APP-2026-Z8NX7F"
+    "appId": "Abhinav Nagare"
   },
   {
-    "id": "KTT161",
+    "id": "KTT162",
     "name": "Rohit Digole",
     "mobile": "+919022781084",
     "email": "digolerohit3@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 041",
     "lab": "HPCC lab",
     "pc": "041",
-    "appId": "APP-2026-HF9XUE"
+    "appId": "Rohit Digole"
   },
   {
-    "id": "KTT162",
+    "id": "KTT163",
     "name": "Mohammad Ali Pitthoo",
     "mobile": "7776992022",
     "email": "alipitthoo51564@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 042",
     "lab": "HPCC lab",
     "pc": "042",
-    "appId": "APP-2026-3U35Y5"
+    "appId": "Mohammad Ali Pitthoo"
   },
   {
-    "id": "KTT163",
+    "id": "KTT164",
     "name": "Shlok swami",
     "mobile": "9225252248",
     "email": "swamishlok232@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 043",
     "lab": "HPCC lab",
     "pc": "043",
-    "appId": "APP-2026-679HEX"
+    "appId": "Shlok swami"
   },
   {
-    "id": "KTT164",
+    "id": "KTT165",
     "name": "Preetinanda Gadekar",
     "mobile": "7020387691",
     "email": "preetinandag@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 044",
     "lab": "HPCC lab",
     "pc": "044",
-    "appId": "APP-2026-BXFPNQ"
+    "appId": "Preetinanda Gadekar"
   },
   {
-    "id": "KTT165",
+    "id": "KTT166",
     "name": "Payal Bhosale",
     "mobile": "7841817298",
     "email": "payalbhosale0127@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 045",
     "lab": "HPCC lab",
     "pc": "045",
-    "appId": "APP-2026-WXAAJ9"
+    "appId": "Payal Bhosale"
   },
   {
-    "id": "KTT166",
+    "id": "KTT167",
     "name": "Manasi Kulkarni",
     "mobile": "8421800117",
     "email": "manasikulkarni0117@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 046",
     "lab": "HPCC lab",
     "pc": "046",
-    "appId": "APP-2026-7WJYXW"
+    "appId": "Manasi Kulkarni"
   },
   {
-    "id": "KTT167",
+    "id": "KTT168",
     "name": "Sarth Vishal Mokashe",
     "mobile": "7558433763",
     "email": "sarth.vm11@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 047",
     "lab": "HPCC lab",
     "pc": "047",
-    "appId": "APP-2026-GKJSE2"
+    "appId": "Sarth Vishal Mokashe"
   },
   {
-    "id": "KTT168",
+    "id": "KTT169",
     "name": "Krishna Agale",
     "mobile": "7058358539",
     "email": "krishnaagale5@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 048",
     "lab": "HPCC lab",
     "pc": "048",
-    "appId": "APP-2026-A23HGT"
+    "appId": "Krishna Agale"
   },
   {
-    "id": "KTT169",
+    "id": "KTT170",
     "name": "Ruchir zope",
     "mobile": "9427916455",
     "email": "ruchirzopee@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 049",
     "lab": "HPCC lab",
     "pc": "049",
-    "appId": "APP-2026-6CHQTY"
+    "appId": "Ruchir zope"
   },
   {
-    "id": "KTT170",
+    "id": "KTT171",
     "name": "Student",
     "mobile": "9970659793",
     "email": "vipulnanaware8@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 050",
     "lab": "HPCC lab",
     "pc": "050",
-    "appId": "APP-2026-DT562V"
+    "appId": "Student"
   },
   {
-    "id": "KTT171",
+    "id": "KTT172",
     "name": "Aniruddha Gudage",
     "mobile": "9529592126",
     "email": "aniruddhagudage.29@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 051",
     "lab": "HPCC lab",
     "pc": "051",
-    "appId": "APP-2026-8D5RYY"
+    "appId": "Aniruddha Gudage"
   },
   {
-    "id": "KTT172",
+    "id": "KTT173",
     "name": "Mansi Bhongade",
     "mobile": "9511269611",
     "email": "mdbhongade21@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 052",
     "lab": "HPCC lab",
     "pc": "052",
-    "appId": "APP-2026-KG8D2G"
+    "appId": "Mansi Bhongade"
   },
   {
-    "id": "KTT173",
+    "id": "KTT174",
     "name": "Aabhas Zinzurde",
     "mobile": "9373601300",
     "email": "zinzurdeaabhas7@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 053",
     "lab": "HPCC lab",
     "pc": "053",
-    "appId": "APP-2026-3T9U52"
+    "appId": "Aabhas Zinzurde"
   },
   {
-    "id": "KTT174",
+    "id": "KTT175",
     "name": "Mrunmayee Hake",
     "mobile": "9225289569",
     "email": "rutu172008@gmail.com",
     "seat": "seat number : HPCC lab , PC number : 054",
     "lab": "HPCC lab",
     "pc": "054",
-    "appId": "APP-2026-HXKBWF"
-  },
-  {
-    "id": "KTT175",
-    "name": "Meghraj Shivale",
-    "mobile": "8080150793",
-    "email": "meghrajshivale107@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 055",
-    "lab": "HPCC lab",
-    "pc": "055",
-    "appId": "APP-2026-Q4QZ68"
-  },
-  {
-    "id": "KTT176",
-    "name": "anuj bavane",
-    "mobile": "9322582644",
-    "email": "bavaneanuj22@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 056",
-    "lab": "HPCC lab",
-    "pc": "056",
-    "appId": "APP-2026-PKBVXK"
+    "appId": "Mrunmayee Hake"
   },
   {
     "id": "KTT177",
-    "name": "Pranav Wani",
-    "mobile": "9834602473",
-    "email": "pranavwani42@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 057",
+    "name": "anuj bavane",
+    "mobile": "9322582644",
+    "email": "bavaneanuj22@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 055",
     "lab": "HPCC lab",
-    "pc": "057",
-    "appId": "APP-2026-4ZY5R2"
+    "pc": "055",
+    "appId": "anuj bavane"
   },
   {
     "id": "KTT178",
-    "name": "Isha Pal",
-    "mobile": "8818808899",
-    "email": "ishap4396@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 058",
+    "name": "Pranav Wani",
+    "mobile": "9834602473",
+    "email": "pranavwani42@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 056",
     "lab": "HPCC lab",
-    "pc": "058",
-    "appId": "APP-2026-SB2AJS"
+    "pc": "056",
+    "appId": "Pranav Wani"
   },
   {
     "id": "KTT179",
-    "name": "Aryan",
-    "mobile": "7219263168",
-    "email": "ary122436@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 059",
+    "name": "Isha Pal",
+    "mobile": "8818808899",
+    "email": "ishap4396@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 057",
     "lab": "HPCC lab",
-    "pc": "059",
-    "appId": "APP-2026-YDEGR9"
+    "pc": "057",
+    "appId": "Isha Pal"
   },
   {
     "id": "KTT180",
-    "name": "prashant kamble",
-    "mobile": "7391931477",
-    "email": "kamble.prashant1477@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 060",
+    "name": "Aryan",
+    "mobile": "7219263168",
+    "email": "ary122436@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 058",
     "lab": "HPCC lab",
-    "pc": "060",
-    "appId": "APP-2026-FNPARX"
+    "pc": "058",
+    "appId": "Aryan"
   },
   {
     "id": "KTT181",
-    "name": "Janhavi Rajendra Patil",
-    "mobile": "9284742919",
-    "email": "patiljanhavi092211@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 061",
+    "name": "prashant kamble",
+    "mobile": "7391931477",
+    "email": "kamble.prashant1477@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 059",
     "lab": "HPCC lab",
-    "pc": "061",
-    "appId": "APP-2026-TXM98Z"
+    "pc": "059",
+    "appId": "prashant kamble"
   },
   {
     "id": "KTT182",
-    "name": "Om Pralhad Vighne",
-    "mobile": "7768800327",
-    "email": "vighneom05@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 062",
+    "name": "Janhavi Rajendra Patil",
+    "mobile": "9284742919",
+    "email": "patiljanhavi092211@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 060",
     "lab": "HPCC lab",
-    "pc": "062",
-    "appId": "APP-2026-89WTPE"
+    "pc": "060",
+    "appId": "Janhavi Rajendra Patil"
   },
   {
     "id": "KTT183",
-    "name": "Shubham Udhane",
-    "mobile": "7756056341",
-    "email": "shubhamsudhane07@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 063",
+    "name": "Om Pralhad Vighne",
+    "mobile": "7768800327",
+    "email": "vighneom05@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 061",
     "lab": "HPCC lab",
-    "pc": "063",
-    "appId": "APP-2026-Y8KR7A"
+    "pc": "061",
+    "appId": "Om Pralhad Vighne"
   },
   {
     "id": "KTT184",
-    "name": "Atharva nikam",
-    "mobile": "9270076070",
-    "email": "nikamatharva525@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 064",
+    "name": "Shubham Udhane",
+    "mobile": "7756056341",
+    "email": "shubhamsudhane07@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 062",
     "lab": "HPCC lab",
-    "pc": "064",
-    "appId": "APP-2026-4EBU6U"
+    "pc": "062",
+    "appId": "Shubham Udhane"
   },
   {
     "id": "KTT185",
-    "name": "Prathamesh wani",
-    "mobile": "9307048348",
-    "email": "prathamwani10@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 065",
+    "name": "Atharva nikam",
+    "mobile": "9270076070",
+    "email": "nikamatharva525@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 063",
     "lab": "HPCC lab",
-    "pc": "065",
-    "appId": "APP-2026-UGY9FB"
+    "pc": "063",
+    "appId": "Atharva nikam"
   },
   {
     "id": "KTT186",
-    "name": "vedant halse",
-    "mobile": "8073061620",
-    "email": "vedanthalse2007@gmail.com",
-    "seat": "seat number : HPCC lab , PC number : 066",
+    "name": "Prathamesh wani",
+    "mobile": "9307048348",
+    "email": "prathamwani10@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 064",
     "lab": "HPCC lab",
-    "pc": "066",
-    "appId": "APP-2026-PP94CF"
+    "pc": "064",
+    "appId": "Prathamesh wani"
   },
   {
     "id": "KTT187",
-    "name": "Mahesh Sadashiv Jagtap",
-    "mobile": "9405755180",
-    "email": "maheshjagtap7834@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 001",
-    "lab": "ERP lab",
-    "pc": "001",
-    "appId": "APP-2026-M3854D"
+    "name": "vedant halse",
+    "mobile": "8073061620",
+    "email": "vedanthalse2007@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 065",
+    "lab": "HPCC lab",
+    "pc": "065",
+    "appId": "vedant halse"
   },
   {
     "id": "KTT188",
-    "name": "Krishna Sanjay Dhumal",
-    "mobile": "7020835560",
-    "email": "topperstudent777@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 002",
-    "lab": "ERP lab",
-    "pc": "002",
-    "appId": "APP-2026-A7B4AP"
+    "name": "Mahesh Sadashiv Jagtap",
+    "mobile": "9405755180",
+    "email": "maheshjagtap7834@gmail.com",
+    "seat": "seat number : HPCC lab , PC number : 066",
+    "lab": "HPCC lab",
+    "pc": "066",
+    "appId": "Mahesh Sadashiv Jagtap"
   },
   {
     "id": "KTT189",
-    "name": "Anushka Farkare",
-    "mobile": "9770865531",
-    "email": "anushkafarkare111@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 003",
+    "name": "Krishna Sanjay Dhumal",
+    "mobile": "7020835560",
+    "email": "topperstudent777@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 001",
     "lab": "ERP lab",
-    "pc": "003",
-    "appId": "APP-2026-KTZ7FV"
+    "pc": "001",
+    "appId": "Krishna Sanjay Dhumal"
   },
   {
     "id": "KTT190",
-    "name": "Rohit Gawai",
-    "mobile": "8329304218",
-    "email": "gawairohit0007@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 004",
+    "name": "Anushka Farkare",
+    "mobile": "9770865531",
+    "email": "anushkafarkare111@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 002",
     "lab": "ERP lab",
-    "pc": "004",
-    "appId": "APP-2026-3F33NV"
+    "pc": "002",
+    "appId": "Anushka Farkare"
   },
   {
     "id": "KTT191",
-    "name": "Prem Rajput",
-    "mobile": "9021001957",
-    "email": "premrajput3107@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 005",
+    "name": "Rohit Gawai",
+    "mobile": "8329304218",
+    "email": "gawairohit0007@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 003",
     "lab": "ERP lab",
-    "pc": "005",
-    "appId": "APP-2026-CE7ZVZ"
+    "pc": "003",
+    "appId": "Rohit Gawai"
   },
   {
     "id": "KTT192",
-    "name": "Ayush Kadam",
-    "mobile": "9730898292",
-    "email": "100coldice@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 006",
+    "name": "Prem Rajput",
+    "mobile": "9021001957",
+    "email": "premrajput3107@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 004",
     "lab": "ERP lab",
-    "pc": "006",
-    "appId": "APP-2026-H6MANE"
+    "pc": "004",
+    "appId": "Prem Rajput"
   },
   {
     "id": "KTT193",
-    "name": "Vighnesh Naykodi",
-    "mobile": "9860744287",
-    "email": "vighneshnaykodi14@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 007",
+    "name": "Ayush Kadam",
+    "mobile": "9730898292",
+    "email": "100coldice@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 005",
     "lab": "ERP lab",
-    "pc": "007",
-    "appId": "APP-2026-M3VR2B"
+    "pc": "005",
+    "appId": "Ayush Kadam"
   },
   {
     "id": "KTT194",
-    "name": "Dhananjay shinde",
-    "mobile": "9699552283",
-    "email": "shindedhananjay648@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 008",
+    "name": "Vighnesh Naykodi",
+    "mobile": "9860744287",
+    "email": "vighneshnaykodi14@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 006",
     "lab": "ERP lab",
-    "pc": "008",
-    "appId": "APP-2026-7XKZ3Z"
+    "pc": "006",
+    "appId": "Vighnesh Naykodi"
   },
   {
     "id": "KTT195",
-    "name": "Chinmay Dakorkar",
-    "mobile": "9130927679",
-    "email": "dakorkarchinmay@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 009",
+    "name": "Dhananjay shinde",
+    "mobile": "9699552283",
+    "email": "shindedhananjay648@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 007",
     "lab": "ERP lab",
-    "pc": "009",
-    "appId": "APP-2026-EQ5JUR"
+    "pc": "007",
+    "appId": "Dhananjay shinde"
   },
   {
     "id": "KTT196",
-    "name": "Ayan khan",
-    "mobile": "8867861752",
-    "email": "ayankhan310707@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 010",
+    "name": "Chinmay Dakorkar",
+    "mobile": "9130927679",
+    "email": "dakorkarchinmay@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 008",
     "lab": "ERP lab",
-    "pc": "010",
-    "appId": "APP-2026-99DVEJ"
+    "pc": "008",
+    "appId": "Chinmay Dakorkar"
   },
   {
     "id": "KTT197",
-    "name": "Siddhant Dandavate",
-    "mobile": "7218660834",
-    "email": "siddhantdandavate@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 011",
+    "name": "Ayan khan",
+    "mobile": "8867861752",
+    "email": "ayankhan310707@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 009",
     "lab": "ERP lab",
-    "pc": "011",
-    "appId": "APP-2026-KF363D"
+    "pc": "009",
+    "appId": "Ayan khan"
   },
   {
     "id": "KTT198",
-    "name": "Prem jaiswal",
-    "mobile": "7769033921",
-    "email": "ajaiswal5311@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 012",
+    "name": "Siddhant Dandavate",
+    "mobile": "7218660834",
+    "email": "siddhantdandavate@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 010",
     "lab": "ERP lab",
-    "pc": "012",
-    "appId": "APP-2026-YMJHNM"
+    "pc": "010",
+    "appId": "Siddhant Dandavate"
   },
   {
     "id": "KTT199",
-    "name": "Vedant Patil",
-    "mobile": "7249609204",
-    "email": "vedantpatil11153@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 013",
+    "name": "Prem jaiswal",
+    "mobile": "7769033921",
+    "email": "ajaiswal5311@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 011",
     "lab": "ERP lab",
-    "pc": "013",
-    "appId": "APP-2026-QHTGFK"
+    "pc": "011",
+    "appId": "Prem jaiswal"
   },
   {
     "id": "KTT200",
-    "name": "Pratiksha S Chavan",
-    "mobile": "8421922446",
-    "email": "piuu.2446@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 014",
+    "name": "Vedant Patil",
+    "mobile": "7249609204",
+    "email": "vedantpatil11153@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 012",
     "lab": "ERP lab",
-    "pc": "014",
-    "appId": "APP-2026-3SQ3VC"
+    "pc": "012",
+    "appId": "Vedant Patil"
   },
   {
     "id": "KTT201",
-    "name": "Kartik Shinde",
-    "mobile": "7219870070",
-    "email": "shindekartik864@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 015",
+    "name": "Pratiksha S Chavan",
+    "mobile": "8421922446",
+    "email": "piuu.2446@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 013",
     "lab": "ERP lab",
-    "pc": "015",
-    "appId": "APP-2026-KUS5QR"
+    "pc": "013",
+    "appId": "Pratiksha S Chavan"
   },
   {
     "id": "KTT202",
-    "name": "Nageswari Kulari",
-    "mobile": "7558614170",
-    "email": "eshwarikulari099@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 016",
+    "name": "Kartik Shinde",
+    "mobile": "7219870070",
+    "email": "shindekartik864@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 014",
     "lab": "ERP lab",
-    "pc": "016",
-    "appId": "APP-2026-444JFY"
+    "pc": "014",
+    "appId": "Kartik Shinde"
   },
   {
     "id": "KTT203",
-    "name": "Dnyaneshwar Tukaram Phad",
-    "mobile": "7249875457",
-    "email": "dphad97@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 017",
+    "name": "Nageswari Kulari",
+    "mobile": "7558614170",
+    "email": "eshwarikulari099@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 015",
     "lab": "ERP lab",
-    "pc": "017",
-    "appId": "APP-2026-2FQ6XH"
+    "pc": "015",
+    "appId": "Nageswari Kulari"
   },
   {
     "id": "KTT204",
-    "name": "Sahil Patil",
-    "mobile": "7058542603",
-    "email": "patilx96@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 018",
+    "name": "Dnyaneshwar Tukaram Phad",
+    "mobile": "7249875457",
+    "email": "dphad97@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 016",
     "lab": "ERP lab",
-    "pc": "018",
-    "appId": "APP-2026-SVH9N3"
+    "pc": "016",
+    "appId": "Dnyaneshwar Tukaram Phad"
   },
   {
     "id": "KTT205",
-    "name": "Tushar Dhande",
-    "mobile": "7028578002",
-    "email": "dhandetushar71@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 019",
+    "name": "Sahil Patil",
+    "mobile": "7058542603",
+    "email": "patilx96@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 017",
     "lab": "ERP lab",
-    "pc": "019",
-    "appId": "APP-2026-MB6VQC"
+    "pc": "017",
+    "appId": "Sahil Patil"
   },
   {
     "id": "KTT206",
-    "name": "Arya Amardeep Kamble",
-    "mobile": "8208956436",
-    "email": "18aryak@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 020",
+    "name": "Tushar Dhande",
+    "mobile": "7028578002",
+    "email": "dhandetushar71@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 018",
     "lab": "ERP lab",
-    "pc": "020",
-    "appId": "APP-2026-ZMKUSV"
+    "pc": "018",
+    "appId": "Tushar Dhande"
   },
   {
     "id": "KTT207",
-    "name": "Dipali Suryawanshi",
-    "mobile": "7387953024",
-    "email": "dipalinanasahebsuryawanshi@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 021",
+    "name": "Arya Amardeep Kamble",
+    "mobile": "8208956436",
+    "email": "18aryak@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 019",
     "lab": "ERP lab",
-    "pc": "021",
-    "appId": "APP-2026-S34KE3"
+    "pc": "019",
+    "appId": "Arya Amardeep Kamble"
   },
   {
     "id": "KTT208",
-    "name": "Kartik Tambe",
-    "mobile": "9850707953",
-    "email": "kartikchandrakanttambe@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 022",
+    "name": "Dipali Suryawanshi",
+    "mobile": "7387953024",
+    "email": "dipalinanasahebsuryawanshi@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 020",
     "lab": "ERP lab",
-    "pc": "022",
-    "appId": "APP-2026-TGHEA2"
+    "pc": "020",
+    "appId": "Dipali Suryawanshi"
   },
   {
     "id": "KTT209",
-    "name": "Unnati Kurallu",
-    "mobile": "8857867825",
-    "email": "kuralluunnati@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 023",
+    "name": "Kartik Tambe",
+    "mobile": "9850707953",
+    "email": "kartikchandrakanttambe@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 021",
     "lab": "ERP lab",
-    "pc": "023",
-    "appId": "APP-2026-78GARK"
+    "pc": "021",
+    "appId": "Kartik Tambe"
   },
   {
     "id": "KTT210",
-    "name": "Dhanashri vinod latil",
-    "mobile": "9322023981",
-    "email": "dhanashrivpatil03@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 024",
+    "name": "Unnati Kurallu",
+    "mobile": "8857867825",
+    "email": "kuralluunnati@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 022",
     "lab": "ERP lab",
-    "pc": "024",
-    "appId": "APP-2026-HFN9BJ"
+    "pc": "022",
+    "appId": "Unnati Kurallu"
   },
   {
     "id": "KTT211",
-    "name": "Yuvraj Bhausaheb Mahajan",
-    "mobile": "7378704083",
-    "email": "yuvrajbhausahebmahajan851@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 025",
+    "name": "Dhanashri vinod latil",
+    "mobile": "9322023981",
+    "email": "dhanashrivpatil03@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 023",
     "lab": "ERP lab",
-    "pc": "025",
-    "appId": "APP-2026-6DMR4P"
+    "pc": "023",
+    "appId": "Dhanashri vinod latil"
   },
   {
     "id": "KTT212",
-    "name": "Shradha Magar",
-    "mobile": "9370962210",
-    "email": "shradhamagar95@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 026",
+    "name": "Yuvraj Bhausaheb Mahajan",
+    "mobile": "7378704083",
+    "email": "yuvrajbhausahebmahajan851@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 024",
     "lab": "ERP lab",
-    "pc": "026",
-    "appId": "APP-2026-ESYZ3M"
+    "pc": "024",
+    "appId": "Yuvraj Bhausaheb Mahajan"
   },
   {
     "id": "KTT213",
-    "name": "Utkarsh Patil",
-    "mobile": "7020057494",
-    "email": "utkarshwork2412@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 027",
+    "name": "Shradha Magar",
+    "mobile": "9370962210",
+    "email": "shradhamagar95@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 025",
     "lab": "ERP lab",
-    "pc": "027",
-    "appId": "APP-2026-GGNYFX"
+    "pc": "025",
+    "appId": "Shradha Magar"
   },
   {
     "id": "KTT214",
-    "name": "Pratiksha Shantaram Rathod",
-    "mobile": "9545543755",
-    "email": "pratiksharathod864@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 028",
+    "name": "Utkarsh Patil",
+    "mobile": "7020057494",
+    "email": "utkarshwork2412@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 026",
     "lab": "ERP lab",
-    "pc": "028",
-    "appId": "APP-2026-ZBZSCX"
+    "pc": "026",
+    "appId": "Utkarsh Patil"
   },
   {
     "id": "KTT215",
-    "name": "Pratik",
-    "mobile": "8866224213",
-    "email": "prajapatipratik547@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 029",
+    "name": "Pratiksha Shantaram Rathod",
+    "mobile": "9545543755",
+    "email": "pratiksharathod864@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 027",
     "lab": "ERP lab",
-    "pc": "029",
-    "appId": "APP-2026-5P84P9"
+    "pc": "027",
+    "appId": "Pratiksha Shantaram Rathod"
   },
   {
     "id": "KTT216",
-    "name": "Parth Anarse",
-    "mobile": "9309350392",
-    "email": "parthanarse@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 030",
+    "name": "Pratik",
+    "mobile": "8866224213",
+    "email": "prajapatipratik547@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 028",
     "lab": "ERP lab",
-    "pc": "030",
-    "appId": "APP-2026-MRHXQT"
+    "pc": "028",
+    "appId": "Pratik"
   },
   {
     "id": "KTT217",
-    "name": "Shanmukhi Bhamare",
-    "mobile": "9665501709",
-    "email": "s28066226@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 031",
+    "name": "Parth Anarse",
+    "mobile": "9309350392",
+    "email": "parthanarse@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 029",
     "lab": "ERP lab",
-    "pc": "031",
-    "appId": "APP-2026-JESUX2"
+    "pc": "029",
+    "appId": "Parth Anarse"
   },
   {
     "id": "KTT218",
-    "name": "Aaditya Rajendra Khaire",
-    "mobile": "7821076740",
-    "email": "aadityakhaire165@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 032",
+    "name": "Shanmukhi Bhamare",
+    "mobile": "9665501709",
+    "email": "s28066226@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 030",
     "lab": "ERP lab",
-    "pc": "032",
-    "appId": "APP-2026-CGSQY6"
+    "pc": "030",
+    "appId": "Shanmukhi Bhamare"
   },
   {
     "id": "KTT219",
-    "name": "Pankaj Walke",
-    "mobile": "7447754423",
-    "email": "pankajwalke80@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 033",
+    "name": "Aaditya Rajendra Khaire",
+    "mobile": "7821076740",
+    "email": "aadityakhaire165@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 031",
     "lab": "ERP lab",
-    "pc": "033",
-    "appId": "APP-2026-MPEY68"
+    "pc": "031",
+    "appId": "Aaditya Rajendra Khaire"
   },
   {
     "id": "KTT220",
-    "name": "Pranav Karke",
-    "mobile": "8237700106",
-    "email": "pranavkarke17@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 034",
+    "name": "Pankaj Walke",
+    "mobile": "7447754423",
+    "email": "pankajwalke80@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 032",
     "lab": "ERP lab",
-    "pc": "034",
-    "appId": "APP-2026-AMAGR2"
+    "pc": "032",
+    "appId": "Pankaj Walke"
   },
   {
     "id": "KTT221",
-    "name": "NIHAL DODKE",
-    "mobile": "7020313464",
-    "email": "nihaldodke007@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 035",
+    "name": "Pranav Karke",
+    "mobile": "8237700106",
+    "email": "pranavkarke17@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 033",
     "lab": "ERP lab",
-    "pc": "035",
-    "appId": "APP-2026-C53YRD"
+    "pc": "033",
+    "appId": "Pranav Karke"
   },
   {
     "id": "KTT222",
-    "name": "Piyush Andhare",
-    "mobile": "8180036511",
-    "email": "andharep69@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 036",
+    "name": "NIHAL DODKE",
+    "mobile": "7020313464",
+    "email": "nihaldodke007@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 034",
     "lab": "ERP lab",
-    "pc": "036",
-    "appId": "APP-2026-MKU34V"
+    "pc": "034",
+    "appId": "NIHAL DODKE"
   },
   {
     "id": "KTT223",
-    "name": "Sajid Rajahmad Mujawar",
-    "mobile": "8767656446",
-    "email": "mujawarsajid321@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 037",
+    "name": "Piyush Andhare",
+    "mobile": "8180036511",
+    "email": "andharep69@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 035",
     "lab": "ERP lab",
-    "pc": "037",
-    "appId": "APP-2026-T6BVCR"
+    "pc": "035",
+    "appId": "Piyush Andhare"
   },
   {
     "id": "KTT224",
-    "name": "Ankit Ahire",
-    "mobile": "8983001084",
-    "email": "ankitahire224@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 038",
+    "name": "Sajid Rajahmad Mujawar",
+    "mobile": "8767656446",
+    "email": "mujawarsajid321@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 036",
     "lab": "ERP lab",
-    "pc": "038",
-    "appId": "APP-2026-MZ3JJZ"
+    "pc": "036",
+    "appId": "Sajid Rajahmad Mujawar"
   },
   {
     "id": "KTT225",
-    "name": "Kartik Jadhav",
-    "mobile": "9422125011",
-    "email": "jadhavkartik467@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 039",
+    "name": "Ankit Ahire",
+    "mobile": "8983001084",
+    "email": "ankitahire224@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 037",
     "lab": "ERP lab",
-    "pc": "039",
-    "appId": "APP-2026-EKNDF2"
+    "pc": "037",
+    "appId": "Ankit Ahire"
   },
   {
     "id": "KTT226",
-    "name": "Riya Pisal",
-    "mobile": "9975964829",
-    "email": "riyapisal385@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 040",
+    "name": "Kartik Jadhav",
+    "mobile": "9422125011",
+    "email": "jadhavkartik467@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 038",
     "lab": "ERP lab",
-    "pc": "040",
-    "appId": "APP-2026-NJZS6U"
+    "pc": "038",
+    "appId": "Kartik Jadhav"
   },
   {
     "id": "KTT227",
-    "name": "Satyajeet Daule",
-    "mobile": "+919022697498",
-    "email": "daulesatyajeet74@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 041",
+    "name": "Riya Pisal",
+    "mobile": "9975964829",
+    "email": "riyapisal385@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 039",
     "lab": "ERP lab",
-    "pc": "041",
-    "appId": "APP-2026-UMRH2K"
+    "pc": "039",
+    "appId": "Riya Pisal"
   },
   {
     "id": "KTT228",
-    "name": "Sumit Patil",
-    "mobile": "7276308553",
-    "email": "sp20092058@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 042",
+    "name": "Satyajeet Daule",
+    "mobile": "+919022697498",
+    "email": "daulesatyajeet74@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 040",
     "lab": "ERP lab",
-    "pc": "042",
-    "appId": "APP-2026-36FD3M"
+    "pc": "040",
+    "appId": "Satyajeet Daule"
   },
   {
     "id": "KTT229",
-    "name": "Swayam sanjay rajewar",
-    "mobile": "7559499217",
-    "email": "rajewarswayam@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 043",
+    "name": "Sumit Patil",
+    "mobile": "7276308553",
+    "email": "sp20092058@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 041",
     "lab": "ERP lab",
-    "pc": "043",
-    "appId": "APP-2026-7DDPXK"
+    "pc": "041",
+    "appId": "Sumit Patil"
   },
   {
     "id": "KTT230",
-    "name": "Balaji Sadashiv Kalewad",
-    "mobile": "9322442575",
-    "email": "balajiskalewad@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 044",
+    "name": "Swayam sanjay rajewar",
+    "mobile": "7559499217",
+    "email": "rajewarswayam@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 042",
     "lab": "ERP lab",
-    "pc": "044",
-    "appId": "APP-2026-3BFVK5"
+    "pc": "042",
+    "appId": "Swayam sanjay rajewar"
   },
   {
     "id": "KTT231",
-    "name": "TEJAS SURYAWANSHI",
-    "mobile": "7385851964",
-    "email": "tejassuryavanshi09@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 045",
+    "name": "Balaji Sadashiv Kalewad",
+    "mobile": "9322442575",
+    "email": "balajiskalewad@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 043",
     "lab": "ERP lab",
-    "pc": "045",
-    "appId": "APP-2026-U9EFNA"
+    "pc": "043",
+    "appId": "Balaji Sadashiv Kalewad"
   },
   {
     "id": "KTT232",
-    "name": "Sudarshan patil",
-    "mobile": "8055450770",
-    "email": "sudarshanpatil6503@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 046",
+    "name": "TEJAS SURYAWANSHI",
+    "mobile": "7385851964",
+    "email": "tejassuryavanshi09@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 044",
     "lab": "ERP lab",
-    "pc": "046",
-    "appId": "APP-2026-6VSDG9"
+    "pc": "044",
+    "appId": "TEJAS SURYAWANSHI"
   },
   {
     "id": "KTT233",
-    "name": "Aditya I. Wankhade",
-    "mobile": "8767097757",
-    "email": "adityawankhade466@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 047",
+    "name": "Sudarshan patil",
+    "mobile": "8055450770",
+    "email": "sudarshanpatil6503@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 045",
     "lab": "ERP lab",
-    "pc": "047",
-    "appId": "APP-2026-2H3XFJ"
+    "pc": "045",
+    "appId": "Sudarshan patil"
   },
   {
     "id": "KTT234",
-    "name": "Arpit Bavankule",
-    "mobile": "9022017433",
-    "email": "arpitbavankule03@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 048",
+    "name": "Aditya I. Wankhade",
+    "mobile": "8767097757",
+    "email": "adityawankhade466@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 046",
     "lab": "ERP lab",
-    "pc": "048",
-    "appId": "APP-2026-J4KDR5"
+    "pc": "046",
+    "appId": "Aditya I. Wankhade"
   },
   {
     "id": "KTT235",
-    "name": "Bhushan Bharatrao Sinkar",
-    "mobile": "9545104832",
-    "email": "bhushansinkar2005@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 049",
+    "name": "Arpit Bavankule",
+    "mobile": "9022017433",
+    "email": "arpitbavankule03@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 047",
     "lab": "ERP lab",
-    "pc": "049",
-    "appId": "APP-2026-DFG56P"
+    "pc": "047",
+    "appId": "Arpit Bavankule"
   },
   {
     "id": "KTT236",
-    "name": "Krushna Jagdish Patil",
-    "mobile": "9699480870",
-    "email": "krishpatil3477@gmail.com",
-    "seat": "seat number : ERP lab , PC number : 050",
+    "name": "Bhushan Bharatrao Sinkar",
+    "mobile": "9545104832",
+    "email": "bhushansinkar2005@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 048",
     "lab": "ERP lab",
-    "pc": "050",
-    "appId": "APP-2026-G5F9HV"
+    "pc": "048",
+    "appId": "Bhushan Bharatrao Sinkar"
   },
   {
     "id": "KTT237",
+    "name": "Krushna Jagdish Patil",
+    "mobile": "9699480870",
+    "email": "krishpatil3477@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 049",
+    "lab": "ERP lab",
+    "pc": "049",
+    "appId": "Krushna Jagdish Patil"
+  },
+  {
+    "id": "KTT238",
     "name": "Vishal Satish Amrutkar",
     "mobile": "9325475952",
     "email": "vishalamrutkar024@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 050",
+    "lab": "ERP lab",
+    "pc": "050",
+    "appId": "Vishal Satish Amrutkar"
+  },
+  {
+    "id": "KTT239",
+    "name": "Sharvari Nitesh Kute",
+    "mobile": "9922674707",
+    "email": "mca2026.sharvarikute@asmedu.org",
     "seat": "seat number : ERP lab , PC number : 051",
     "lab": "ERP lab",
     "pc": "051",
-    "appId": "APP-2026-DPWZPU"
+    "appId": "Sharvari Nitesh Kute"
+  },
+  {
+    "id": "KTT240",
+    "name": "satyam kumar",
+    "mobile": "7020662774",
+    "email": "satyam.dharmavir@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 052",
+    "lab": "ERP lab",
+    "pc": "052",
+    "appId": "satyam kumar"
+  },
+  {
+    "id": "KTT241",
+    "name": "Mayur Patil",
+    "mobile": "8530561776",
+    "email": "mayurpatil1969@gmail.com",
+    "seat": "seat number : ERP lab , PC number : 053",
+    "lab": "ERP lab",
+    "pc": "053",
+    "appId": "Mayur Patil"
   }
 ]

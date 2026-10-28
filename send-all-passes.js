@@ -3,7 +3,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import QRCode from 'qrcode';
 
-const SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbwgIreBfEQPgd6ogCcHik_aM2ovb1v57682ct88cRizMsdjCjTztfOsA1Y6f-9G4Y8e/exec';
+const SCRIPT_URL = process.env.GOOGLE_SCRIPT_URL || 'https://script.google.com/macros/s/AKfycbzUj2WBFyRkAE_7ivpFKPlM7SSjOW8PcC2_yP_tfPmYBRpIoMJWpKtxQMuKTSCax59H/exec';
 const SECRET = process.env.QR_SIGNING_SECRET || 'kick-to-tech-secret-key-2026-verify';
 
 const canonical = ({ id, name, mobile, email }) => `<kick to tech>|id=${id}|name=${name}|mobile=${mobile || ''}${email ? `|email=${email}` : ''}`;
