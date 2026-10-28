@@ -48,16 +48,19 @@ async function sendEmailForUser(user, targetEmail = null) {
   const qrBuffer = await QRCode.toBuffer(signedPayload, { errorCorrectionLevel: 'M', margin: 2, width: 400 });
   const qrBase64 = qrBuffer.toString('base64');
 
-  const subject = `Kick to Tech — Your Refreshment QR Pass & Seating (#${String(user.id).padStart(3, '0')})`;
-  const textContent = `Hi ${user.name},\n\nYou have been registered for Kick to Tech.\n\nMember ID: #${String(user.id).padStart(3, '0')}\nFull Name: ${user.name}\nMobile: +91 ${user.mobile}\nEmail: ${user.email}\nSeating Arrangement: ${seatText}\n\nPlease find your official one-time REFRESHMENT QR code attached.\nShow this QR code at the refreshment counter to claim your refreshments.\n\nNote: This QR code is valid for single one-time refreshment access only.\n\n— Kick to Tech Team`;
+  const subject = `[KICK TO TECH] Your Refreshment QR Pass & Seating (#${String(user.id).padStart(3, '0')})`;
+  const textContent = `KICK TO TECH\n\nHi ${user.name},\n\nYou have been registered for Kick to Tech.\n\nMember ID: #${String(user.id).padStart(3, '0')}\nFull Name: ${user.name}\nMobile: +91 ${user.mobile}\nEmail: ${user.email}\nSeating Arrangement: ${seatText}\n\nPlease find your official one-time REFRESHMENT QR code attached.\nShow this QR code at the refreshment counter to claim your refreshments.\n\nNote: This QR code is valid for single one-time refreshment access only.\n\n— Kick To Tech Team`;
 
   const htmlContent = `
 <div style="font-family:Arial,sans-serif;background:#f4f6f1;padding:32px 16px;color:#151817">
-  <div style="max-width:560px;margin:auto;background:#fff;border-radius:12px;overflow:hidden;border-top:8px solid #c8ff3d;box-shadow:0 4px 20px rgba(0,0,0,0.06)">
-    <div style="background:#151817;padding:24px 32px">
-      <h2 style="color:#ffffff;margin:0;font-size:20px;letter-spacing:1px;font-weight:700">
-        KICK TO TECH <span style="color:#c8ff3d">REFRESHMENT PASS</span>
-      </h2>
+  <div style="max-width:580px;margin:auto;background:#fff;border-radius:12px;overflow:hidden;border-top:8px solid #c8ff3d;box-shadow:0 6px 24px rgba(0,0,0,0.08)">
+    <div style="background:#111413;padding:36px 24px;text-align:center;border-bottom:5px solid #c8ff3d">
+      <h1 style="color:#ffffff;margin:0 0 6px 0;font-size:40px;letter-spacing:4px;font-weight:900;text-transform:uppercase;font-family:'Arial Black',Arial,sans-serif">
+        KICK TO TECH
+      </h1>
+      <p style="color:#c8ff3d;margin:0;font-size:14px;letter-spacing:2px;font-weight:700;text-transform:uppercase">
+        OFFICIAL REFRESHMENT PASS & SEATING
+      </p>
     </div>
     <div style="padding:32px">
       <p style="font-size:11px;letter-spacing:2px;color:#6c756d;font-weight:bold;margin:0 0 8px;text-transform:uppercase">ONE-TIME REFRESHMENT PASS</p>
